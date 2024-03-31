@@ -1,0 +1,693 @@
+[
+  {
+    "url": "https://scratch.mit.edu/images/logo_sm.png",
+    "description": "ナビゲーションバーのロゴ.",
+    "tags": ["ホームページ","ナビゲーションバー"]
+  },
+  {
+    "url": "https://scratch.mit.edu/images/nav-search-glass.png",
+    "description": "ナビゲーションバーの検索アイコン",
+    "tags": ["ホームページ","ナビゲーションバー"]
+  },
+  {
+    "url": "https://scratch.mit.edu/images/ideas/try-it-icon.svg",
+    "description": "寄付バー",
+    "tags": ["ホームページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/modal/close-x.svg",
+    "description": "寄付バーのバツボタン",
+    "tags": ["ホームページ","作品ページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/intro/create.svg",
+    "description": "「作ってみよう」ボタン",
+    "tags": ["ホームページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/intro/join.svg",
+    "description": "「参加する」ボタン",
+    "tags": ["ホームページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/intro/background-cropped.svg",
+    "description": "「ビデオを見る」の背景",
+    "tags": ["ホームページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/intro/video-image.svg",
+    "description": "「ビデオを見る」のボタン",
+    "tags": ["ホームページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/intro/hat-block.svg",
+    "description": "「ビデオを見る」の下の画像",
+    "tags": ["ホームページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/carousel/prev_ui-dark-gray.svg",
+    "description": "注目のプロジェクトなどの左ボタン",
+    "tags": ["ホームページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/carousel/next_ui-dark-gray.svg",
+    "description": "注目のプロジェクトなどの右ボタン",
+    "tags": ["ホームページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/remix/remix_type-gray.svg",
+    "description": "「コミュニティで現在リミックスされているもの」のプロジェクトの下のリミックスアイコン",
+    "tags": ["ホームページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/love/love_type-gray.svg",
+    "description": "「コミュニティが好きなもの」のプロジェクトの下のハートアイコン",
+    "tags": ["ホームページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/forms/caret.svg",
+    "description": "ページ下の言語選択のボタン・「見る」の傾向、最近を切り替えるボタン",
+    "tags": ["ホームページ","見る"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/tabs/projects-active.svg",
+    "description": "選択状態の「作品」ボタン",
+    "tags": ["見る"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/tabs/projects-inactive.svg",
+    "description": "未選択状態の「作品」ボタン",
+    "tags": ["見る"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/tabs/studios-active.svg",
+    "description": "選択状態の「スタジオ」ボタン",
+    "tags": ["見る"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/tabs/studios-inactive.svg",
+    "description": "未選択状態の「スタジオ」ボタン",
+    "tags": ["見る"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/90fb0caa5319c39b24946476dd32bb0d.svg",
+    "description": "エディター内のナビゲーションバーのロゴ.",
+    "tags": ["エディター","ナビゲーションバー"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04LjI3MjA2IDIuNjgzNzdDOC40MDgxOCAyLjI3NTQzIDguNzkwMzIgMiA5LjIyMDc1IDJIMTAuNzc5MkMxMS4yMDk3IDIgMTEuNTkxOCAyLjI3NTQzIDExLjcyNzkgMi42ODM3N0wxMi4zMjE5IDQuNDY1OEMxMi43OTE0IDQuNjYzIDEzLjIzMDQgNC45MTgxOCAxMy42MzAyIDUuMjIyMzhMMTUuNDcyMSA0Ljg0NTQ3QzE1Ljg5MzggNC43NTkxNyAxNi4zMjM0IDQuOTUyNCAxNi41Mzg2IDUuMzI1MTZMMTcuMzE3OCA2LjY3NDg1QzE3LjUzMyA3LjA0NzYxIDE3LjQ4NTYgNy41MTYyNyAxNy4yIDcuODM4MzJMMTUuOTUyOSA5LjI0NDY4QzE1Ljk4NCA5LjQ5MjA4IDE2IDkuNzQ0MTcgMTYgMTBDMTYgMTAuMjU1OCAxNS45ODQgMTAuNTA3OSAxNS45NTI5IDEwLjc1NTNMMTcuMiAxMi4xNjE3QzE3LjQ4NTYgMTIuNDgzNyAxNy41MzMgMTIuOTUyNCAxNy4zMTc4IDEzLjMyNTJMMTYuNTM4NiAxNC42NzQ4QzE2LjMyMzQgMTUuMDQ3NiAxNS44OTM4IDE1LjI0MDggMTUuNDcyMSAxNS4xNTQ1TDEzLjYzMDIgMTQuNzc3NkMxMy4yMzA0IDE1LjA4MTggMTIuNzkxNCAxNS4zMzcgMTIuMzIxOSAxNS41MzQyTDExLjcyNzkgMTcuMzE2MkMxMS41OTE4IDE3LjcyNDYgMTEuMjA5NyAxOCAxMC43NzkyIDE4SDkuMjIwNzVDOC43OTAzMiAxOCA4LjQwODE4IDE3LjcyNDYgOC4yNzIwNiAxNy4zMTYyTDcuNjc4MDUgMTUuNTM0MkM3LjIwODYyIDE1LjMzNyA2Ljc2OTU1IDE1LjA4MTggNi4zNjk4MiAxNC43Nzc2TDQuNTI3OTIgMTUuMTU0NUM0LjEwNjIzIDE1LjI0MDggMy42NzY2MyAxNS4wNDc2IDMuNDYxNDEgMTQuNjc0OEwyLjY4MjE3IDEzLjMyNTJDMi40NjY5NiAxMi45NTI0IDIuNTE0NDIgMTIuNDgzNyAyLjggMTIuMTYxN0w0LjA0NzA4IDEwLjc1NTNDNC4wMTYgMTAuNTA3OSAzLjk5OTk5IDEwLjI1NTggMy45OTk5OSAxMEMzLjk5OTk5IDkuNzQ0MTYgNC4wMTYgOS40OTIwNyA0LjA0NzA3IDkuMjQ0NjZMMi44IDcuODM4MzJDMi41MTQ0MiA3LjUxNjI3IDIuNDY2OTYgNy4wNDc2MSAyLjY4MjE3IDYuNjc0ODVMMy40NjE0MSA1LjMyNTE2QzMuNjc2NjMgNC45NTI0IDQuMTA2MjMgNC43NTkxNyA0LjUyNzkyIDQuODQ1NDdMNi4zNjk4IDUuMjIyMzhDNi43Njk1NCA0LjkxODE4IDcuMjA4NjEgNC42NjMgNy42NzgwNSA0LjQ2NThMOC4yNzIwNiAyLjY4Mzc3Wk05Ljk5OTk5IDhDOC44OTU0MiA4IDcuOTk5OTkgOC44OTU0MyA3Ljk5OTk5IDEwQzcuOTk5OTkgMTEuMTA0NiA4Ljg5NTQyIDEyIDkuOTk5OTkgMTJDMTEuMTA0NiAxMiAxMiAxMS4xMDQ2IDEyIDEwQzEyIDguODk1NDMgMTEuMTA0NiA4IDkuOTk5OTkgOFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=",
+    "description": "ナビゲーションバー「設定」タブアイコン",
+    "tags": ["エディター","ナビゲーションバー"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iOHB4IiBoZWlnaHQ9IjVweCIgdmlld0JveD0iMCAwIDggNSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNDguMiAoNDczMjcpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPmRyb3Bkb3duLWNhcmV0PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9ImRyb3Bkb3duLWNhcmV0IiBmaWxsPSIjRkZGRkZGIj4KICAgICAgICAgICAgPHBhdGggZD0iTTQsNSBDMy43MjUyMDcwOCw1IDMuNDUxNjMwMDYsNC44OTY5NTA0NSAzLjI0MTI3OTczLDQuNjg5NjUzMTEgTDAuMzE0NjEzNTcyLDEuODA2NjYyMjcgQy0wLjEwNDg3MTE5MSwxLjM5MzI2NTgzIC0wLjEwNDg3MTE5MSwwLjcyNDY0MjAyMyAwLjMxNDYxMzU3MiwwLjMxMDA0NzMzMSBDMC43MzI4ODI0MzgsLTAuMTAzMzQ5MTEgNy4yNjcxMTc1NiwtMC4xMDMzNDkxMSA3LjY4NTM4NjQzLDAuMzEwMDQ3MzMxIEM4LjEwNDg3MTE5LDAuNzIzNDQzNzcyIDguMTA0ODcxMTksMS4zOTMyNjU4MyA3LjY4NTM4NjQzLDEuODA2NjYyMjcgTDQuNzU5OTM2MTcsNC42ODk2NTMxMSBDNC41NDk1ODU4Myw0Ljg5Njk1MDQ1IDQuMjc2MDA4ODIsNSA0LDUiPjwvcGF0aD4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==",
+    "description": "タブメニューアイコン",
+    "tags": ["エディター","ナビゲーションバー"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNSAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik01LjE3MTUgMTEuNDAzQzQuNzQ1MzMgMTEuNDAzIDQuMzE5MTYgMTEuMjM5OCAzLjk5NDUzIDEwLjkxNTJMMC43OTgyNDIgNy43MTg5MkMwLjE0NzMzMSA3LjA2ODAxIDAuMTQ3MzMxIDYuMDE1ODkgMC43OTgyNDIgNS4zNjQ5OEMxLjQ0OTE1IDQuNzE0MDcgMi41MDEyNyA0LjcxNDA3IDMuMTUyMTggNS4zNjQ5OEw1LjE3MTUgNy4zODQzMUwxMS40NjkyIDEuMDg4MjhDMTIuMTE4NCAwLjQzNzM3IDEzLjE3MjIgMC40MzczNyAxMy44MjMxIDEuMDg4MjhDMTQuNDcyNCAxLjczNzUzIDE0LjQ3MjQgMi43OTEzIDEzLjgyMzEgMy40NDIyMkw2LjM0ODQ3IDEwLjkxNTJDNi4wMjM4NCAxMS4yMzk4IDUuNTk3NjcgMTEuNDAzIDUuMTcxNSAxMS40MDNaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K",
+    "description": "選択チェックアイコン",
+    "tags": ["エディター","ナビゲーションバー"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDQ4LjIgKDQ3MzI3KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5MYW5ndWFnZTwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgICAgICAgPGcgaWQ9Ikxhbmd1YWdlIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMS4yNSI+CiAgICAgICAgICAgIDxnIGlkPSJsYW5ndWFnZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMi4wMDAwMDAsIDIuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTUuNjM1Miw4LjExMjk0MTE4IEMxNS42MzUyLDEyLjI2ODIzNTMgMTIuMjY2NzI5NCwxNS42MzU3NjQ3IDguMTEyMzc2NDcsMTUuNjM1NzY0NyBDMy45NTcwODIzNSwxNS42MzU3NjQ3IDAuNTg4NjExNzY1LDEyLjI2ODIzNTMgMC41ODg2MTE3NjUsOC4xMTI5NDExOCBDMC41ODg2MTE3NjUsMy45NTc2NDcwNiAzLjk1NzA4MjM1LDAuNTg5MTc2NDcxIDguMTEyMzc2NDcsMC41ODkxNzY0NzEgQzEyLjI2NjcyOTQsMC41ODkxNzY0NzEgMTUuNjM1MiwzLjk1NzY0NzA2IDE1LjYzNTIsOC4xMTI5NDExOCBaIiBpZD0iU3Ryb2tlLTEiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMS45ODA4LDguMTE2NjExNzYgQzExLjk4MDgsOS43NDk1NTI5NCAxMS43MTUzODgyLDExLjI2MDE0MTIgMTEuMjU0MjExOCwxMi40OTIxNDEyIEMxMC41NTU4NTg4LDE0LjM5MzMxNzYgOS40MDc2MjM1MywxNS42MzQ3Mjk0IDguMTEwNjgyMzUsMTUuNjM0NzI5NCBDNi44MTM3NDExOCwxNS42MzQ3Mjk0IDUuNjY5MjcwNTksMTQuMzkzMzE3NiA0Ljk2NzE1Mjk0LDEyLjQ5MjE0MTIgQzQuNTEwNjgyMzUsMTEuMjYwMTQxMiA0LjI0NDMyOTQxLDkuNzQ5NTUyOTQgNC4yNDQzMjk0MSw4LjExNjYxMTc2IEM0LjI0NDMyOTQxLDYuNDgyNzI5NDEgNC41MTA2ODIzNSw0Ljk3MzA4MjM1IDQuOTY3MTUyOTQsMy43NDEwODIzNSBDNS42NjkyNzA1OSwxLjgyOTU1Mjk0IDYuODEzNzQxMTgsMC41ODgxNDExNzYgOC4xMTA2ODIzNSwwLjU4ODE0MTE3NiBDOS40MDc2MjM1MywwLjU4ODE0MTE3NiAxMC41NTU4NTg4LDEuODI5NTUyOTQgMTEuMjU0MjExOCwzLjc0MTA4MjM1IEMxMS43MTUzODgyLDQuOTczMDgyMzUgMTEuOTgwOCw2LjQ4MjcyOTQxIDExLjk4MDgsOC4xMTY2MTE3NiBaIiBpZD0iU3Ryb2tlLTMiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLjk1NTAxMTc2NSwxMC4yODExMjk0IEwxNS4yNjg0MjM1LDEwLjI4MTEyOTQiIGlkPSJTdHJva2UtNSI+PC9wYXRoPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTAuOTU1MDExNzY1LDUuOTQ2NjM1MjkgTDE1LjI2ODQyMzUsNS45NDY2MzUyOSIgaWQ9IlN0cm9rZS03Ij48L3BhdGg+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOC4xMTIxODgyNCwwLjU5MDAyMzUyOSBMOC4xMTIxODgyNCwxNS42Mzc1NTI5IiBpZD0iU3Ryb2tlLTkiPjwvcGF0aD4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+",
+    "description": "設定＞言語アイコン",
+    "tags": ["エディター","ナビゲーションバー"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/64e66a9dcf4b42a699f49e5973a4a62e.svg",
+    "description": "設定＞カラーモードアイコン、オリジナルアイコン",
+    "tags": ["エディター","ナビゲーションバー"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/e4dfc45f34b4606356c4c70ba14a96f0.svg",
+    "description": "ハイコントラストアイコン",
+    "tags": ["エディター","ナビゲーションバー"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00Ljk4MTE2IDFIMTUuMDE5NkMxNi40MDQyIDEgMTcuNjE1OCAyLjIxMTU0IDE3LjYxNTggMy41OTYxNVYxMC44NjU0SDEzLjYzNUMxMS4zODUgMTAuODY1NCA5LjY1NDI0IDEyLjc2OTIgOS42NTQyNCAxNC44NDYyVjE4LjgyNjlINC45ODExNkMzLjU5NjU1IDE4LjgyNjkgMi4zODUwMSAxNy42MTU0IDIuMzg1MDEgMTYuMjMwOFYzLjU5NjE1QzIuMzg1MDEgMi4yMTE1NCAzLjU5NjU1IDEgNC45ODExNiAxWk02LjAxOTYzIDkuODI2OTJIOC43ODg4NkM5LjQ4MTE2IDkuODI2OTIgMTAuMDAwNCA5LjQ4MDc3IDEwLjAwMDQgOC43ODg0NkMxMC4wMDA0IDguMDk2MTUgOS40ODExNiA3Ljc1IDguOTYxOTMgNy43NUg2LjAxOTYzQzUuNTAwMzkgNy43NSA0Ljk4MTE2IDguMjY5MjMgNC45ODExNiA4Ljc4ODQ2QzQuOTgxMTYgOS4zMDc2OSA1LjUwMDM5IDkuODI2OTIgNi4wMTk2MyA5LjgyNjkyWk0xNC4xNTQyIDUuODQ2MTVINi4wMTk2M0M1LjMyNzMyIDUuODQ2MTUgNC45ODExNiA1LjMyNjkyIDQuOTgxMTYgNC44MDc2OUM0Ljk4MTE2IDQuMjg4NDYgNS41MDAzOSAzLjc2OTIzIDYuMDE5NjMgMy43NjkyM0gxNC4xNTQyQzE0LjY3MzUgMy43NjkyMyAxNS4xOTI3IDQuMjg4NDYgMTUuMTkyNyA0LjgwNzY5QzE1LjAxOTYgNS4zMjY5MiAxNC42NzM1IDUuODQ2MTUgMTQuMTU0MiA1Ljg0NjE1Wk0xNy40NDI3IDEyLjI1SDEzLjQ2MTlDMTIuMDc3MyAxMi4yNSAxMC44NjU4IDEzLjQ2MTUgMTAuODY1OCAxNS4wMTkyVjE5TDE3LjQ0MjcgMTIuMjVaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K",
+    "description": "ナビゲーションバー「ファイル」タブアイコン",
+    "tags": ["エディター","ナビゲーションバー"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iOHB4IiBoZWlnaHQ9IjVweCIgdmlld0JveD0iMCAwIDggNSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNDguMiAoNDczMjcpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPmRyb3Bkb3duLWNhcmV0PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9ImRyb3Bkb3duLWNhcmV0IiBmaWxsPSIjRkZGRkZGIj4KICAgICAgICAgICAgPHBhdGggZD0iTTQsNSBDMy43MjUyMDcwOCw1IDMuNDUxNjMwMDYsNC44OTY5NTA0NSAzLjI0MTI3OTczLDQuNjg5NjUzMTEgTDAuMzE0NjEzNTcyLDEuODA2NjYyMjcgQy0wLjEwNDg3MTE5MSwxLjM5MzI2NTgzIC0wLjEwNDg3MTE5MSwwLjcyNDY0MjAyMyAwLjMxNDYxMzU3MiwwLjMxMDA0NzMzMSBDMC43MzI4ODI0MzgsLTAuMTAzMzQ5MTEgNy4yNjcxMTc1NiwtMC4xMDMzNDkxMSA3LjY4NTM4NjQzLDAuMzEwMDQ3MzMxIEM4LjEwNDg3MTE5LDAuNzIzNDQzNzcyIDguMTA0ODcxMTksMS4zOTMyNjU4MyA3LjY4NTM4NjQzLDEuODA2NjYyMjcgTDQuNzU5OTM2MTcsNC42ODk2NTMxMSBDNC41NDk1ODU4Myw0Ljg5Njk1MDQ1IDQuMjc2MDA4ODIsNSA0LDUiPjwvcGF0aD4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==",
+    "description": "ナビゲーションバー「編集」タブアイコン",
+    "tags": ["エディター","ナビゲーションバー"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/c216c70ef78cc80a1538a3accc6612af.svg",
+    "description": "ナビゲーションバー「チュートリアル」タブアイコン",
+    "tags": ["エディター","ナビゲーションバー"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/d47549bb6e9f027aec84dff992940caf.svg",
+    "description": "「コスチューム」タブアイコン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDQ5LjIgKDUxMTYwKSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5Db2RlIFYyPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IkNvZGUtVjIiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGQ9Ik0xNSwxNC41MSBDMTUsMTQuNzg2IDE0Ljc3NiwxNS4wMSAxNC41LDE1LjAxIEw5LjE5NywxNS4wMSBDOS4wNjQsMTUuMDEgOC45MzcsMTUuMDYyIDguODQ0LDE1LjE1NiBMOC4xNDYsMTUuODU0IEM4LjA1MywxNS45NDcgNy45MjYsMTYgNy43OTMsMTYgTDYuMjA3LDE2IEM2LjA3NCwxNiA1Ljk0NywxNS45NDcgNS44NTQsMTUuODU0IEw1LjE1NiwxNS4xNTYgQzUuMDYyLDE1LjA2MiA0LjkzNiwxNS4wMSA0LjgwMywxNS4wMSBMMy41LDE1LjAxIEMzLjIyNCwxNS4wMSAzLDE0Ljc4NiAzLDE0LjUxIEwzLDExLjUgQzMsMTEuMjI0IDMuMjI0LDExIDMuNSwxMSBMNC43OTMsMTEgQzQuOTI2LDExIDUuMDUzLDExLjA1MyA1LjE0NiwxMS4xNDYgTDUuODU0LDExLjg1NCBDNS45NDcsMTEuOTQ3IDYuMDc0LDEyIDYuMjA3LDEyIEw3Ljc5MywxMiBDNy45MjYsMTIgOC4wNTMsMTEuOTQ3IDguMTQ2LDExLjg1NCBMOC44NTQsMTEuMTQ2IEM4Ljk0NywxMS4wNTMgOS4wNzQsMTEgOS4yMDcsMTEgTDE0LjUsMTEgQzE0Ljc3NiwxMSAxNSwxMS4yMjQgMTUsMTEuNSBMMTUsMTQuNTEgWiBNMTcsOS41MSBDMTcsOS43ODYgMTYuNzc2LDEwLjAxIDE2LjUsMTAuMDEgTDkuMTk3LDEwLjAxIEM5LjA2NCwxMC4wMSA4LjkzNywxMC4wNjIgOC44NDQsMTAuMTU2IEw4LjE0NiwxMC44NTQgQzguMDUzLDEwLjk0NyA3LjkyNiwxMSA3Ljc5MywxMSBMNi4yMDcsMTEgQzYuMDc0LDExIDUuOTQ3LDEwLjk0NyA1Ljg1NCwxMC44NTQgTDUuMTU2LDEwLjE1NiBDNS4wNjIsMTAuMDYyIDQuOTM2LDEwLjAxIDQuODAzLDEwLjAxIEwzLjUsMTAuMDEgQzMuMjI0LDEwLjAxIDMsOS43ODYgMyw5LjUxIEwzLDYuNSBDMyw2LjIyNCAzLjIyNCw2IDMuNSw2IEw0Ljc5Myw2IEM0LjkyNiw2IDUuMDUzLDYuMDUzIDUuMTQ2LDYuMTQ2IEw1Ljg1NCw2Ljg1NCBDNS45NDcsNi45NDcgNi4wNzQsNyA2LjIwNyw3IEw3Ljc5Myw3IEM3LjkyNiw3IDguMDUzLDYuOTQ3IDguMTQ2LDYuODU0IEw4Ljg1NCw2LjE0NiBDOC45NDcsNi4wNTMgOS4wNzQsNiA5LjIwNyw2IEwxNi41LDYgQzE2Ljc3Niw2IDE3LDYuMjI0IDE3LDYuNSBMMTcsOS41MSBaIiBpZD0iQ29kZSIgZmlsbD0iIzg1NUNENiI+PC9wYXRoPgogICAgPC9nPgo8L3N2Zz4K",
+    "description": "「コード」タブアイコン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDQ5LjIgKDUxMTYwKSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5Tb3VuZHMgVjE8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iU291bmRzLVYxIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8cGF0aCBkPSJNMTIuNjMwNzgwMSwxMy42MzcxNDIgQzEyLjQ4MDI4NCwxMy42MzcxNDIgMTIuMzI1NTY4NCwxMy41OTc1NDc3IDEyLjE4NDkxNzgsMTMuNTE0MTE2OSBDMTEuNzY3MTg1NiwxMy4yNjUyMzg1IDExLjYyNzk0MTYsMTIuNzIzNjQ1MiAxMS44NzU0ODY2LDEyLjMwMzY2MyBDMTIuMzQ2NjY2LDExLjUwMDQ2NDYgMTIuMzQ2NjY2LDEwLjUwNDk1MTIgMTEuODc1NDg2Niw5LjcwMzE2NjkxIEMxMS42Mjc5NDE2LDkuMjgxNzcwNTkgMTEuNzY3MTg1Niw4Ljc0MDE3NzMzIDEyLjE4NDkxNzgsOC40OTEyOTg5NiBDMTIuNjA2ODY5NSw4LjI0NTI0ODc2IDEzLjE0NDE1NDcsOC4zODM4Mjg3NiAxMy4zODg4ODY3LDguODAyMzk2OTIgQzE0LjE4NjM3NTQsMTAuMTU5OTE1MyAxNC4xODYzNzU0LDExLjg0NTUwMDYgMTMuMzg4ODg2NywxMy4yMDMwMTg5IEMxMy4yMjU3MzIsMTMuNDgzMDA3MSAxMi45MzE3NzIzLDEzLjYzNzE0MiAxMi42MzA3ODAxLDEzLjYzNzE0MiBaIE0xNS4yNTY2MzYzLDE1LjA1NTMyNDQgQzE1LjEwNjE0MDIsMTUuMDU1MzI0NCAxNC45NTAwMTgsMTUuMDE1NzMwMSAxNC44MTA3NzQsMTQuOTMyMjk5MyBDMTQuMzkzMDQxOCwxNC42ODM0MjEgMTQuMjUzNzk3NywxNC4xNDE4Mjc3IDE0LjUwMTM0MjcsMTMuNzIxODQ1NSBDMTUuNDg3MzAzMiwxMi4wNDQ3NDQ3IDE1LjQ4NzMwMzIsOS45NjAzODgzNiAxNC41MDEzNDI3LDguMjg0NzAxNjQgQzE0LjI1Mzc5NzcsNy44NjQ3MTk0IDE0LjM5MzA0MTgsNy4zMjE3MTIwNiAxNC44MTA3NzQsNy4wNzI4MzM2OSBDMTUuMjI5OTEyNiw2LjgyODE5NzU3IDE1Ljc2NzE5NzgsNi45NjUzNjM0OSAxNi4wMTQ3NDI4LDcuMzgzOTMxNjUgQzE3LjMyODQxOTEsOS42MTUzNTI0NCAxNy4zMjg0MTkxLDEyLjM4OTc4MDYgMTYuMDE0NzQyOCwxNC42MjEyMDE0IEMxNS44NTAxODE2LDE0LjkwMTE4OTUgMTUuNTU3NjI4NSwxNS4wNTUzMjQ0IDE1LjI1NjYzNjMsMTUuMDU1MzI0NCBaIE0xMC4zNzg1Mjg2LDYuNjc4NTg3NzQgTDEwLjM3ODUyODYsMTUuMzIwMDQwNSBDMTAuMzc4NTI4NiwxNi4zNDM4MzU2IDkuMTcxNzQ2NzYsMTYuODc5NzcyNSA4LjQxOTI2NjI0LDE2LjE4OTcwMDcgTDYuNzk0NzUyMjMsMTQuNjk3ODQ0NiBDNi4yMTk0OTE0MiwxNC4xNzAzOTIxIDUuNDY5ODIzOTEsMTMuODc3Njc3MyA0LjY5MDYxOTc4LDEzLjg3NzY3NzMgTDQuNDA2NTA1NjQsMTMuODc3Njc3MyBDMy42MzAxMTQ1MywxMy44Nzc2NzczIDMsMTMuMjQ1NTgyOCAzLDEyLjQ2MzU5NTYgTDMsOS41NTA1ODc1IEMzLDguNzcwMDE0NDUgMy42MzAxMTQ1Myw4LjEzNjUwNTg5IDQuNDA2NTA1NjQsOC4xMzY1MDU4OSBMNC42NzUxNDgyMiw4LjEzNjUwNTg5IEM1LjQ1NDM1MjM1LDguMTM2NTA1ODkgNi4yMDQwMTk4Niw3Ljg0Mzc5MDk5IDYuNzc5MjgwNjYsNy4zMTYzMzg1NSBMOC40MTkyNjYyNCw1LjgxMDM0MTYzIEM5LjE3MTc0Njc2LDUuMTIwMjY5OCAxMC4zNzg1Mjg2LDUuNjU2MjA2NzMgMTAuMzc4NTI4Niw2LjY3ODU4Nzc0IFoiIGlkPSJDb21iaW5lZC1TaGFwZSIgZmlsbD0iIzg1NUNENiI+PC9wYXRoPgogICAgPC9nPgo8L3N2Zz4K",
+    "description": "「音」タブアイコン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNi42MyAxNy41Ij48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOiM0Y2JmNTY7c3Ryb2tlOiM0NTk5M2Q7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO30uY2xzLTJ7c3Ryb2tlLXdpZHRoOjEuNXB4O308L3N0eWxlPjwvZGVmcz48dGl0bGU+aWNvbi0tZ3JlZW4tZmxhZzwvdGl0bGU+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNLjc1LDJBNi40NCw2LjQ0LDAsMCwxLDguNDQsMmgwYTYuNDQsNi40NCwwLDAsMCw3LjY5LDBWMTIuNGE2LjQ0LDYuNDQsMCwwLDEtNy42OSwwaDBhNi40NCw2LjQ0LDAsMCwwLTcuNjksMCIvPjxsaW5lIGNsYXNzPSJjbHMtMiIgeDE9IjAuNzUiIHkxPSIxNi43NSIgeDI9IjAuNzUiIHkyPSIwLjc1Ii8+PC9zdmc+",
+    "description": "「実行」ボタン",
+    "tags": ["エディター","作品ページ"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxNCAxNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTQgMTQ7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojRUM1OTU5O3N0cm9rZTojQjg0ODQ4O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9Cjwvc3R5bGU+Cjxwb2x5Z29uIGNsYXNzPSJzdDAiIHBvaW50cz0iNC4zLDAuNSA5LjcsMC41IDEzLjUsNC4zIDEzLjUsOS43IDkuNywxMy41IDQuMywxMy41IDAuNSw5LjcgMC41LDQuMyAiLz4KPC9zdmc+Cg==",
+    "description": "「止める」ボタン",
+    "tags": ["エディター","作品ページ"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0Ny4xICg0NTQyMikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+U21hbGwgU3RhZ2UgKGluYWN0aXZlKTwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgICAgICAgPGcgaWQ9IlNtYWxsLVN0YWdlLShpbmFjdGl2ZSkiIHN0cm9rZT0iIzg1NUNENiI+CiAgICAgICAgICAgIDxnIGlkPSJzbWFsbC1zdGFnZS0oaW5hY3RpdmUpIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzLjAwMDAwMCwgNC4wMDAwMDApIj4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xLDAgTDEwLDAgTDEwLDEyIEwxLDEyIEwxLDEyIEMwLjQ0NzcxNTI1LDEyIDYuNzYzNTM3NTFlLTE3LDExLjU1MjI4NDcgMCwxMSBMMCwxIEwwLDEgQy02Ljc2MzUzNzUxZS0xNywwLjQ0NzcxNTI1IDAuNDQ3NzE1MjUsMS4wMTQ1MzA2M2UtMTYgMSwwIFoiIGlkPSJSZWN0YW5nbGUiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMCwwIEwxMywwIEwxMywwIEMxMy41NTIyODQ3LC0xLjAxNDUzMDYzZS0xNiAxNCwwLjQ0NzcxNTI1IDE0LDEgTDE0LDMgTDEwLDMgTDEwLDAgWiIgaWQ9IlJlY3RhbmdsZSIgZmlsbD0iIzg1NUNENiI+PC9wYXRoPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTEwLDMgTDE0LDMgTDE0LDExIEwxNCwxMSBDMTQsMTEuNTUyMjg0NyAxMy41NTIyODQ3LDEyIDEzLDEyIEwxMCwxMiBMMTAsMyBaIiBpZD0iUmVjdGFuZ2xlLUNvcHkiPjwvcGF0aD4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg==",
+    "description": "「小さいステージに切り替える」ボタン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0Ny4xICg0NTQyMikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+TGFyZ2UgU3RhZ2UgKGFjdGl2ZSk8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgogICAgICAgIDxnIGlkPSJMYXJnZS1TdGFnZS0oYWN0aXZlKSIgc3Ryb2tlPSIjODU1Q0Q2Ij4KICAgICAgICAgICAgPGcgaWQ9ImxhcmdlLXN0YWdlLShpbmFjdGl2ZSkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMuMDAwMDAwLCA0LjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTEsMCBMNywwIEw3LDEyIEwxLDEyIEwxLDEyIEMwLjQ0NzcxNTI1LDEyIDYuNzYzNTM3NTFlLTE3LDExLjU1MjI4NDcgMCwxMSBMMCwxIEwwLDEgQy02Ljc2MzUzNzUxZS0xNywwLjQ0NzcxNTI1IDAuNDQ3NzE1MjUsMS4wMTQ1MzA2M2UtMTYgMSwwIFoiIGlkPSJSZWN0YW5nbGUiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik03LDAgTDEzLDAgTDEzLDAgQzEzLjU1MjI4NDcsLTEuMDE0NTMwNjNlLTE2IDE0LDAuNDQ3NzE1MjUgMTQsMSBMMTQsNS4yNSBMNyw1LjI1IEw3LDAgWiIgaWQ9IlJlY3RhbmdsZSIgZmlsbD0iIzg1NUNENiI+PC9wYXRoPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTcsNSBMMTQsNSBMMTQsMTEgTDE0LDExIEMxNCwxMS41NTIyODQ3IDEzLjU1MjI4NDcsMTIgMTMsMTIgTDcsMTIgTDcsNSBaIiBpZD0iUmVjdGFuZ2xlLUNvcHkiPjwvcGF0aD4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg==",
+    "description": "「大きなステージに切り替え」ボタン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/679ce05ac8c35bbf83f596e895ab711b.svg",
+    "description": "「全画面表示」ボタン",
+    "tags": ["エディター","作品ページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/61e99f0da6828d62aa9e3761c15ace9f.svg",
+    "description": "「全画面表示をやめる」ボタン",
+    "tags": ["エディター","作品ページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/d259fcbecaa9d2a22d19848daff9d4c6.svg",
+    "description": "「拡張機能を追加」ボタン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/blocks-media/default/zoom-in.svg",
+    "description": "「+」(ズーム)ボタン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/blocks-media/default/zoom-out.svg",
+    "description": "「-」(ズームアウト)ボタン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/blocks-media/default/zoom-reset.svg",
+    "description": "「=」(ズームアウト)ボタン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/bc0fbf502b38884f440135ddae40016d.svg",
+    "description": "スプライト削除ボタン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCIgdmlld0JveD0iMCAwIDE2IDE2IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0OC4yICg0NzMyNykgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+eC1pY29uX1YyPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgICAgICA8ZyBpZD0ieC1pY29uX1YyIiBzdHJva2U9IiM1NzVFNzUiIHN0cm9rZS13aWR0aD0iMiI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0zLDggTDEyLDgiIGlkPSJTdHJva2UtMSI+PC9wYXRoPgogICAgICAgICAgICA8cG9seWxpbmUgaWQ9IlN0cm9rZS01IiBwb2ludHM9IjQgMTAgMiA3Ljk5OTQzNDIzIDQgNiI+PC9wb2x5bGluZT4KICAgICAgICAgICAgPHBvbHlsaW5lIGlkPSJTdHJva2UtNS1Db3B5IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMy4wMDAwMDAsIDguMDAwMDAwKSBzY2FsZSgtMSwgMSkgdHJhbnNsYXRlKC0xMy4wMDAwMDAsIC04LjAwMDAwMCkgIiBwb2ludHM9IjE0IDEwIDEyIDcuOTk5NDM0MjMgMTQgNiI+PC9wb2x5bGluZT4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==",
+    "description": "x軸アイコン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCIgdmlld0JveD0iMCAwIDE2IDE2IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0OC4yICg0NzMyNykgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+eSBpY29uIFYyPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgICAgICA8ZyBpZD0ieS1pY29uLVYyIiBzdHJva2U9IiM1NzVFNzUiIHN0cm9rZS13aWR0aD0iMiI+CiAgICAgICAgICAgIDxnIGlkPSJ5LWljb24iIHRyYW5zZm9ybT0idHJhbnNsYXRlKDguMDAwMDAwLCA4LjAwMDAwMCkgcm90YXRlKDkwLjAwMDAwMCkgdHJhbnNsYXRlKC04LjAwMDAwMCwgLTguMDAwMDAwKSB0cmFuc2xhdGUoMi4wMDAwMDAsIDYuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMSwyIEwxMCwyIiBpZD0iU3Ryb2tlLTEiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwb2x5bGluZSBpZD0iU3Ryb2tlLTUiIHBvaW50cz0iMiA0IDAgMS45OTk0MzQyMyAyIDAiPjwvcG9seWxpbmU+CiAgICAgICAgICAgICAgICA8cG9seWxpbmUgaWQ9IlN0cm9rZS01LUNvcHkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDExLjAwMDAwMCwgMi4wMDAwMDApIHNjYWxlKC0xLCAxKSB0cmFuc2xhdGUoLTExLjAwMDAwMCwgLTIuMDAwMDAwKSAiIHBvaW50cz0iMTIgNCAxMCAxLjk5OTQzNDIzIDEyIDAiPjwvcG9seWxpbmU+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==",
+    "description": "y軸アイコン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCIgdmlld0JveD0iMCAwIDE2IDE2IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+c2hvdy1pY29uLWFjdGl2ZTwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJzaG93LWljb24tYWN0aXZlIiBmaWxsLXJ1bGU9Im5vbnplcm8iIGZpbGw9IiM4NTVDRDYiPgogICAgICAgICAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxLjAwMDAwMCwgMi4wMDAwMDApIj4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMy41MDkxMjk1LDQuMzY0NzA5ODcgQzE0LjE1MDUxOTUsNS4yNjc4NTU2NiAxNC4xNzY1OTc2LDYuNzUzMjE5MjUgMTMuNTA5MTI5NSw3LjYzNTI5MDA5IEMxMy41MDkxMjk1LDcuNjM1MjkwMDkgMTEuNDc0NDQwMSwxMS41IDYuOTk5OTk5OTksMTEuNSBDMi41MjU1NTk4NiwxMS41IDAuNDkwODcwNDQsNy42MzUyOTAwOSAwLjQ5MDg3MDQ0LDcuNjM1MjkwMDkgQy0wLjE1MDUxOTUxOCw2LjczMjE0NDMgLTAuMTc2NTk3NTcxLDUuMjQ2NzgwNzEgMC40OTA4NzA0NCw0LjM2NDcwOTg3IEMwLjQ5MDg3MDQ0LDQuMzY0NzA5ODcgMi41MjU1NTk4NiwwLjUgNi45OTk5OTk5OSwwLjUgQzExLjQ3NDQ0MDEsMC41IDEzLjUwOTEyOTUsNC4zNjQ3MDk4NyAxMy41MDkxMjk1LDQuMzY0NzA5ODcgWiBNNi45OTg4OTQxMiw5Ljk5ODg5NDEyIEM5LjIwNzcyNzcsOS45OTg4OTQxMiAxMC45OTgzNDEyLDguMjA4MjgwNjggMTAuOTk4MzQxMiw1Ljk5OTQ0NzA2IEMxMC45OTgzNDEyLDMuNzkwNjEzNDQgOS4yMDc3Mjc3LDIgNi45OTg4OTQxMiwyIEM0Ljc5MDA2MDUsMiAyLjk5OTQ0NzA2LDMuNzkwNjEzNDQgMi45OTk0NDcwNiw1Ljk5OTQ0NzA2IEMyLjk5OTQ0NzA2LDguMjA4MjgwNjggNC43OTAwNjA1LDkuOTk4ODk0MTIgNi45OTg4OTQxMiw5Ljk5ODg5NDEyIFoiIGlkPSJDb21iaW5lZC1TaGFwZSI+PC9wYXRoPgogICAgICAgICAgICAgICAgPGNpcmNsZSBpZD0iT3ZhbCIgY3g9IjciIGN5PSI2IiByPSIyIj48L2NpcmNsZT4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg==",
+    "description": "「スプライトを表示する」ボタン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/947a6530bad18e5d96fe3d3433f2f937.svg",
+    "description": "「スプライトを隠す」ボタン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/78e3f697df85275aa8d384ca6fc0e288.svg",
+    "description": "「スプライトを選ぶ」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUwLjIgKDU1MDQ3KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5zZWFyY2gtc3ByaXRlLWxpYnJhcnk8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0ic2VhcmNoLXNwcml0ZS1saWJyYXJ5IiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8cGF0aCBkPSJNOS4wODkyMDMyNSw1LjI4MjQ5NDIyIEMxMS4xNzQ0OTY3LDUuMjgyNDk0MjIgMTIuODk0NDgzMyw2Ljk4NzI1OTcgMTIuODk0NDgzMyw5LjA4Nzc3NDMgQzEyLjg5NDQ4MzMsMTEuMTg4Mjg4OSAxMS4xNzQ0OTY3LDEyLjg5MzA1NDQgOS4wODkyMDMyNSwxMi44OTMwNTQ0IEM2Ljk4ODY4ODY1LDEyLjg5MzA1NDQgNS4yODM5MjMxOCwxMS4xODgyODg5IDUuMjgzOTIzMTgsOS4wODc3NzQzIEM1LjI4MzkyMzE4LDYuOTg3MjU5NyA2Ljk4ODY4ODY1LDUuMjgyNDk0MjIgOS4wODkyMDMyNSw1LjI4MjQ5NDIyIE0xNi42Njc3OTksMTUuMDU0NDUzNSBMMTQuNTQ1OTc0OSwxMi45MzExMDcyIEMxNC4zMDA5MTQ4LDEyLjY4NDUyNSAxNC4yNjc0Mjg0LDEyLjMxMTYwNzYgMTQuNDM0ODYwNywxMi4wMDU2NjMxIEMxNS4yODcyNDM0LDEwLjQyNzIzMjkgMTUuNDk1NzcyOCw4LjQxMzQ3ODY3IDE0LjU3OTQ2MTMsNi40Mzc3NzcyNSBDMTMuODQ3MzI1NSw0Ljg1NjMwMjg1IDEyLjM5OTc5NjksMy42NDQ3MDE2OCAxMC43MTE3NzQ3LDMuMjA5Mzc3NjQgQzYuMjU5NTk2OTksMi4wNjAxODMwNiAyLjMwNjY3MjA1LDUuODE1MjMzNDMgMy4xMDI3MzY2NCwxMC4yMjYzMTQxIEMzLjUwNDU3NDIyLDEyLjQ0ODU5NzcgNS4yMDMyNTEyNCwxNC4zMTkyNzMzIDcuMzc1MzA1MTEsMTQuOTM0MjA2NiBDOS4wNTg3NjEwMSwxNS40MTIxNDk4IDEwLjY3MDY3NzcsMTUuMTUwMzQ2NSAxMS45OTE4NzA5LDE0LjQzMzQzMTcgQzEyLjI5NzgxNTQsMTQuMjY1OTk5NCAxMi42NzIyNTUsMTQuMjk5NDg1OSAxMi45MjAzNTkyLDE0LjU0NDU0NTkgTDE1LjA1NTg4MjQsMTYuNjY3ODkyMiBDMTUuMjY4OTc4MSwxNi44OTYyMDkgMTUuNTU4MTc5NCwxNy4wMDI3NTY5IDE1Ljg2MjYwMTgsMTcuMDAyNzU2OSBDMTYuMTUxODAzMSwxNy4wMDI3NTY5IDE2LjQ0MTAwNDQsMTYuODk2MjA5IDE2LjY2Nzc5OSwxNi42Njc4OTIyIEMxNy4xMTA3MzM3LDE2LjIyNjQ3OTcgMTcuMTEwNzMzNywxNS40OTU4NjU5IDE2LjY2Nzc5OSwxNS4wNTQ0NTM1IiBpZD0ic2VhcmNoIiBmaWxsPSIjRkZGRkZGIj48L3BhdGg+CiAgICA8L2c+Cjwvc3ZnPg==",
+    "description": "スプライト・背景・音を選ぶ＞スプライト・背景・音を選ぶ",
+    "tags": ["エディター","コスチュームエディター","音エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/a11919e102077f40302da55fb9150440.svg",
+    "description": "スプライトを選ぶ、背景を選ぶ＞描くボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/00aa0c4320b93631ab3c223604ead431.svg",
+    "description": "スプライトを選ぶ、背景を選ぶ、音を選ぶ＞サプライズ(ランダム)ボタン",
+    "tags": ["エディター","コスチュームエディター","音エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDQ4LjIgKDQ3MzI3KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5maWxlLXVwbG9hZDwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJmaWxlLXVwbG9hZCIgZmlsbD0iI0ZGRkZGRiI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik01LjkxNzM3MDk4LDYuODg2MTI0NjMgTDkuNjM4ODg5OTcsMy4xNjQ2MDU2NSBDOS44NTcwMDA5NywyLjk0NTEzMTQ1IDEwLjE5Nzc5OTQsMi45NDUxMzE0NSAxMC40MTU5MTA0LDMuMTY0NjA1NjUgTDE0LjEzNzQyOTQsNi44ODYxMjQ2MyBDMTQuNDkxODU5OCw3LjI0MDU1NTAxIDE0LjIzMjg1Myw3LjgyNTM2NTE0IDEzLjc0MjEwMzIsNy44MjUzNjUxNCBMMTEuODg4MTU5Nyw3LjgyNTM2NTE0IEwxMC43ODM5NzI3LDEyLjIwMTIxNzEgQzEwLjY3NDkxNzIsMTIuNjI1MTcwNCAxMC4yMzg2OTUyLDEyLjg4MjgxNCA5LjgxNjEwNTE2LDEyLjc3Mzc1ODUgQzkuNTE2MjAyNTMsMTIuNzA2OTYyIDkuMjk4MDkxNTMsMTIuNDc1MjE5MSA5LjIyOTkzMTg0LDEyLjIwMTIxNzEgTDguMTI1NzQ0ODksNy44MjUzNjUxNCBMNi4zMTI2OTcxOCw3LjgyNTM2NTE0IEM1LjgyMTk0NzQyLDcuODI1MzY1MTQgNS41NjI5NDA2LDcuMjQwNTU1MDEgNS45MTczNzA5OCw2Ljg4NjEyNDYzIFogTTE3LDExLjYwMTc1MyBMMTcsMTMuODUxMDIyNyBDMTcsMTUuNTgyMjc4OCAxNS41OTU5MTA0LDE3LjAwMDAwMDMgMTMuODY0NjU0MywxNy4wMDAwMDAzIEw2LjE0ODk3NzYsMTcuMDAwMDAwMyBDNC40MDQwODk1OCwxNy4wMDAwMDAzIDMsMTUuNTgyMjc4OCAzLDEzLjg1MTAyMjcgTDMsMTEuNjAxNzUzIEMzLDExLjAyOTIxMTYgMy40NjM0ODU4OCwxMC41NzkzNTc2IDQuMDIyMzk1MzMsMTAuNTc5MzU3NiBDNC41ODEzMDQ3NywxMC41NzkzNTc2IDUuMDQ0NzkwNjUsMTEuMDI5MjExNiA1LjA0NDc5MDY1LDExLjYwMTc1MyBMNS4wNDQ3OTA2NSwxMy44NTEwMjI3IEM1LjA0NDc5MDY1LDE0LjQ1MDgyNzkgNS41MzU1NDA0MSwxNC45NTUyMDk2IDYuMTQ4OTc3NiwxNC45NTUyMDk2IEwxMy44NjQ2NTQzLDE0Ljk1NTIwOTYgQzE0LjQ2NDQ1OTYsMTQuOTU1MjA5NiAxNC45NTUyMDkzLDE0LjQ1MDgyNzkgMTQuOTU1MjA5MywxMy44NTEwMjI3IEwxNC45NTUyMDkzLDExLjYwMTc1MyBDMTQuOTU1MjA5MywxMS4wMjkyMTE2IDE1LjQxODY5NTIsMTAuNTc5MzU3NiAxNS45Nzc2MDQ3LDEwLjU3OTM1NzYgQzE2LjU1MDE0NjEsMTAuNTc5MzU3NiAxNywxMS4wMjkyMTE2IDE3LDExLjYwMTc1MyBaIiBpZD0iZmlsZS11cGxvYWQtaWNvbiI+PC9wYXRoPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+",
+    "description": "スプライトを選ぶ、背景を選ぶ、音を選ぶ＞アップロードボタン",
+    "tags": ["エディター","コスチュームエディター","音エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/7d2d28d80d4ae06acb4fdbde429448e6.svg",
+    "description": "「背景を選ぶ」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/blocks-media/default/rotate-right.svg",
+    "description": "右回りアイコン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/blocks-media/default/rotate-left.svg",
+    "description": "左回りアイコン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/blocks-media/default/dropdown-arrow.svg",
+    "description": "選択メニューアイコン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/blocks-media/default/sprites.png",
+    "description": "選択チェックアイコン(残りは未使用)",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/blocks-media/default/green-flag.svg",
+    "description": "「緑の旗が押されたとき」ブロックの旗",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/blocks-media/default/eyedropper.svg",
+    "description": "ステージから色を取るボタン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3LjQ4IDcuNDgiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDpub25lO3N0cm9rZTojZmZmO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2Utd2lkdGg6MnB4O308L3N0eWxlPjwvZGVmcz48dGl0bGU+aWNvbi0tYWRkPC90aXRsZT48bGluZSBjbGFzcz0iY2xzLTEiIHgxPSIzLjc0IiB5MT0iNi40OCIgeDI9IjMuNzQiIHkyPSIxIi8+PGxpbmUgY2xhc3M9ImNscy0xIiB4MT0iMSIgeTE9IjMuNzQiIHgyPSI2LjQ4IiB5Mj0iMy43NCIvPjwvc3ZnPg==",
+    "description": "バツボタン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/blocks-media/default/icons/remove.svg",
+    "description": "ブロック定義作成画面の削除ボタン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDQ4LjIgKDQ3MzI3KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5iYWNrLWljb248L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iYmFjay1pY29uIiBmaWxsPSIjRkZGRkZGIj4KICAgICAgICAgICAgPHBhdGggZD0iTTQuMTA4MDQ5MTIsOC41Nzc2NTA1NSBMOS4zMzIwMzYzOCwzLjM1MzY2MzI5IEM5LjYzODIwNDEzLDMuMDQ1NTgxOTkgMTAuMTE2NTkxMiwzLjA0NTU4MTk5IDEwLjQyMjc1OSwzLjM1MzY2MzI5IEwxNS42NDY3NDYyLDguNTc3NjUwNTUgQzE2LjE0NDI2ODgsOS4wNzUxNzMxNCAxNS43ODA2OTQ2LDkuODk2MDg1NDMgMTUuMDkxODE3Miw5Ljg5NjA4NTQzIEwxMi40ODkzOTEzLDkuODk2MDg1NDMgTDEwLjkzOTQxNzEsMTYuMDM4NTc1OSBDMTAuNzg2MzMzMiwxNi42MzM2ODk1IDEwLjE3Mzk5NzcsMTYuOTk1MzUwMiA5LjU4MDc5NzY4LDE2Ljg0MjI2NjMgQzkuMTU5ODE3MDIsMTYuNzQ4NTAyNCA4Ljg1MzY0OTI3LDE2LjQyMzE5OTIgOC43NTc5NzE4NCwxNi4wMzg1NzU5IEw3LjIwNzk5NzYsOS44OTYwODU0MyBMNC42NjI5NzgxNyw5Ljg5NjA4NTQzIEMzLjk3NDEwMDczLDkuODk2MDg1NDMgMy42MTA1MjY1Myw5LjA3NTE3MzE0IDQuMTA4MDQ5MTIsOC41Nzc2NTA1NSIgaWQ9IkZpbGwtMSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOS44NzczOTgsIDEwLjAwMDAwMCkgcm90YXRlKC05MC4wMDAwMDApIHRyYW5zbGF0ZSgtOS44NzczOTgsIC0xMC4wMDAwMDApICI+PC9wYXRoPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+",
+    "description": "「戻る」ボタン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNC41IiBoZWlnaHQ9IjE0LjYiIHZpZXdCb3g9IjAgMCAxNC41IDE0LjYiPgogIDxwYXRoIGZpbGw9IiM4NTVDRDYiIGQ9Ik0xMC40IDkuMmwtLjgtLjEtLjItLjJjLjUtLjUuOC0xIDEtMS42LjItLjYuMy0xLjIuMy0xLjkgMC0xLS4yLTEuOS0uNy0yLjctLjQtLjktMS4xLTEuNS0xLjktMkM3LjMuMiA2LjMgMCA1LjQgMGMtLjkgMC0xLjkuMi0yLjcuNy0uOS41LTEuNSAxLjItMiAyUzAgNC40IDAgNS40cy4yIDEuOS43IDIuOGMuNS44IDEuMiAxLjQgMiAxLjlzMS43LjcgMi43LjdjLjcgMCAxLjMtLjEgMS45LS4zLjYtLjMgMS4xLS42IDEuNi0xbC4yLjN2LjZsNC4xIDQuMiAxLjMtMS4zLTQuMS00LjF6TTguNyA3LjNjLS40LjYtLjggMS4xLTEuNCAxLjQtLjYuMy0xLjIuNS0xLjkuNS0uNiAwLTEuMy0uMi0xLjgtLjUtLjYtLjQtMS4xLS44LTEuNC0xLjQtLjMtLjYtLjUtMS4yLS41LTEuOXMuMi0xLjQuNS0xLjkuOC0xIDEuNC0xLjNjLjUtLjQgMS4xLS41IDEuOC0uNXMxLjMuMSAxLjkuNWMuNi4zIDEgLjggMS40IDEuMy4zLjYuNSAxLjIuNSAxLjlTOSA2LjcgOC43IDcuM3oiLz4KPC9zdmc+Cg==",
+    "description": "スプライト・背景検索アイコン",
+    "tags": ["エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/63edd39e6afe6627d8e6e8db62bff5a1.svg",
+    "description": "「取り消し」ボタン",
+    "tags": ["エディター","コスチュームエディター","音エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/e962bb14129d55b565bd1ebdebdf6cce.svg",
+    "description": "「やり直し」ボタン",
+    "tags": ["エディター","コスチュームエディター","音エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/d2167f2daa4c134da69bd74d18b7e94d.svg",
+    "description": "「グループ化」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/8be7b8c8a8d7a982bf7f892af94629fe.svg",
+    "description": "「グループ解除」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+c2VuZC1mb3J3YXJkPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9InNlbmQtZm9yd2FyZCI+CiAgICAgICAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIuMDAwMDAwLCAzLjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTEyLjM0NzY3MzYsNS45MjU0OTcyMyBMMTAuMjQwNzM3Niw1LjkyNTQ5NzIzIEw5LjMzNjAxNjExLDEyLjc2MzU5ODEgQzkuMjM4MDc2MDMsMTMuNTQ3NjY2MSA4LjU0MDI1Mjk1LDE0LjEwMDM2OTggNy43ODEyMTczMiwxMy45ODQ2ODc2IEM3LjE2OTA5MTgxLDEzLjg5NDcxMjYgNi42OTE2MzM5MSwxMy4zODA1Njk3IDYuNjE2OTU0NiwxMi43NjM1OTgxIEw1LjcxMjIzMzEsNS45MjU0OTcyMyBMMy42NTQyNjcxNCw1LjkyNTQ5NzIzIEMzLjA2Nzg1MDksNS45MjU0OTcyMyAyLjc4NTA0ODkyLDUuMTkyODQzNTYgMy4xOTAyNzYsNC43Njg2NzU2NCBMNy41MzUxNDI4NiwwLjE5MjgwMzU5NyBDNy43OTIyMzU1OCwtMC4wNjQyNjc4NjU4IDguMjA5NzA1MTcsLTAuMDY0MjY3ODY1OCA4LjQ1MzMzMTEzLDAuMTkyODAzNTk3IEwxMi44MTI4ODksNC43Njg2NzU2NCBDMTMuMjE2ODkxOCw1LjE5Mjg0MzU2IDEyLjkyMzA3MTYsNS45MjU0OTcyMyAxMi4zNDc2NzM2LDUuOTI1NDk3MjMiIGlkPSJGaWxsLTEiIGZpbGw9IiM4NTVDRDYiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMiw4IEwxNiw4IiBpZD0iU3Ryb2tlLTYiIHN0cm9rZT0iIzU3NUU3NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48L3BhdGg+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCw4IEw0LDgiIGlkPSJTdHJva2UtMTAiIHN0cm9rZT0iIzU3NUU3NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48L3BhdGg+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPgo=",
+    "description": "「手前に出す」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+c2VuZC1iYWNrd2FyZDwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJzZW5kLWJhY2t3YXJkIj4KICAgICAgICAgICAgPGcgaWQ9InNlbmQtZm9yd2FyZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTAuMDAwMDAwLCAxMC4wMDAwMDApIHJvdGF0ZSgxODAuMDAwMDAwKSB0cmFuc2xhdGUoLTEwLjAwMDAwMCwgLTEwLjAwMDAwMCkgdHJhbnNsYXRlKDIuMDAwMDAwLCAzLjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTEyLjM0NzY3MzYsNS45MjU0OTcyMyBMMTAuMjQwNzM3Niw1LjkyNTQ5NzIzIEw5LjMzNjAxNjExLDEyLjc2MzU5ODEgQzkuMjM4MDc2MDMsMTMuNTQ3NjY2MSA4LjU0MDI1Mjk1LDE0LjEwMDM2OTggNy43ODEyMTczMiwxMy45ODQ2ODc2IEM3LjE2OTA5MTgxLDEzLjg5NDcxMjYgNi42OTE2MzM5MSwxMy4zODA1Njk3IDYuNjE2OTU0NiwxMi43NjM1OTgxIEw1LjcxMjIzMzEsNS45MjU0OTcyMyBMMy42NTQyNjcxNCw1LjkyNTQ5NzIzIEMzLjA2Nzg1MDksNS45MjU0OTcyMyAyLjc4NTA0ODkyLDUuMTkyODQzNTYgMy4xOTAyNzYsNC43Njg2NzU2NCBMNy41MzUxNDI4NiwwLjE5MjgwMzU5NyBDNy43OTIyMzU1OCwtMC4wNjQyNjc4NjU4IDguMjA5NzA1MTcsLTAuMDY0MjY3ODY1OCA4LjQ1MzMzMTEzLDAuMTkyODAzNTk3IEwxMi44MTI4ODksNC43Njg2NzU2NCBDMTMuMjE2ODkxOCw1LjE5Mjg0MzU2IDEyLjkyMzA3MTYsNS45MjU0OTcyMyAxMi4zNDc2NzM2LDUuOTI1NDk3MjMiIGlkPSJGaWxsLTEiIGZpbGw9IiM4NTVDRDYiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMiw4IEwxNiw4IiBpZD0iU3Ryb2tlLTYiIHN0cm9rZT0iIzU3NUU3NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48L3BhdGg+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCw4IEw0LDgiIGlkPSJTdHJva2UtMTAiIHN0cm9rZT0iIzU3NUU3NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48L3BhdGg+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPgo=",
+    "description": "「奥に下げる」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+c2VuZC1mcm9udDwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJzZW5kLWZyb250Ij4KICAgICAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMi4wMDAwMDAsIDMuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTIuMzQ3NjczNiw1LjkyNTQ5NzIzIEwxMC4yNDA3Mzc2LDUuOTI1NDk3MjMgTDkuMzM2MDE2MTEsMTIuNzYzNTk4MSBDOS4yMzgwNzYwMywxMy41NDc2NjYxIDguNTQwMjUyOTUsMTQuMTAwMzY5OCA3Ljc4MTIxNzMyLDEzLjk4NDY4NzYgQzcuMTY5MDkxODEsMTMuODk0NzEyNiA2LjY5MTYzMzkxLDEzLjM4MDU2OTcgNi42MTY5NTQ2LDEyLjc2MzU5ODEgTDUuNzEyMjMzMSw1LjkyNTQ5NzIzIEwzLjY1NDI2NzE0LDUuOTI1NDk3MjMgQzMuMDY3ODUwOSw1LjkyNTQ5NzIzIDIuNzg1MDQ4OTIsNS4xOTI4NDM1NiAzLjE5MDI3Niw0Ljc2ODY3NTY0IEw3LjUzNTE0Mjg2LDAuMTkyODAzNTk3IEM3Ljc5MjIzNTU4LC0wLjA2NDI2Nzg2NTggOC4yMDk3MDUxNywtMC4wNjQyNjc4NjU4IDguNDUzMzMxMTMsMC4xOTI4MDM1OTcgTDEyLjgxMjg4OSw0Ljc2ODY3NTY0IEMxMy4yMTY4OTE4LDUuMTkyODQzNTYgMTIuOTIzMDcxNiw1LjkyNTQ5NzIzIDEyLjM0NzY3MzYsNS45MjU0OTcyMyIgaWQ9IkZpbGwtMSIgZmlsbD0iIzg1NUNENiI+PC9wYXRoPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTEyLDggTDE2LDgiIGlkPSJTdHJva2UtNiIgc3Ryb2tlPSIjNTc1RTc1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMiwxMCBMMTUsMTAiIGlkPSJTdHJva2UtNi1Db3B5IiBzdHJva2U9IiM1NzVFNzUiIG9wYWNpdHk9IjAuNzUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTEyLDEyIEwxNCwxMiIgaWQ9IlN0cm9rZS02LUNvcHktMiIgc3Ryb2tlPSIjNTc1RTc1IiBvcGFjaXR5PSIwLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTAsOCBMNCw4IiBpZD0iU3Ryb2tlLTEwIiBzdHJva2U9IiM1NzVFNzUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTEsMTAgTDQsMTAiIGlkPSJTdHJva2UtMTAtQ29weSIgc3Ryb2tlPSIjNTc1RTc1IiBvcGFjaXR5PSIwLjc1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yLDEyIEw0LDEyIiBpZD0iU3Ryb2tlLTEwLUNvcHktMiIgc3Ryb2tlPSIjNTc1RTc1IiBvcGFjaXR5PSIwLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9wYXRoPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4K",
+    "description": "「最前面」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/3abda41e22f85951f4fa66565e286893.svg",
+    "description": "「最背面」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUwLjIgKDU1MDQ3KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5maWxsLXNvbGlkLWVuYWJsZWQ8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iZmlsbC1zb2xpZC1lbmFibGVkIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2Utb3BhY2l0eT0iMC4xNSI+CiAgICAgICAgPHJlY3QgaWQ9IlNvbGlkIiBzdHJva2U9IiMwMDAwMDAiIGZpbGw9IiM4NTVDRDYiIHg9IjAuNSIgeT0iMC41IiB3aWR0aD0iMTkiIGhlaWdodD0iMTkiIHJ4PSI0Ij48L3JlY3Q+CiAgICA8L2c+Cjwvc3ZnPgo=",
+    "description": "「全面」カラーボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUwLjIgKDU1MDQ3KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5maWxsLWhvcnotZ3JhZGllbnQtZW5hYmxlZDwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPgogICAgICAgIDxsaW5lYXJHcmFkaWVudCB4MT0iMTAwJSIgeTE9IjUwJSIgeDI9IjAlIiB5Mj0iNTAlIiBpZD0ibGluZWFyR3JhZGllbnQtMSI+CiAgICAgICAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNGRkZGRkYiIG9mZnNldD0iMCUiPjwvc3RvcD4KICAgICAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzg1NUNENiIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+CiAgICAgICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDwvZGVmcz4KICAgIDxnIGlkPSJmaWxsLWhvcnotZ3JhZGllbnQtZW5hYmxlZCIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLW9wYWNpdHk9IjAuMTUiPgogICAgICAgIDxyZWN0IGlkPSJIb3Jpem9udGFsIiBzdHJva2U9IiMwMDAwMDAiIGZpbGw9InVybCgjbGluZWFyR3JhZGllbnQtMSkiIHg9IjAuNSIgeT0iMC41IiB3aWR0aD0iMTkiIGhlaWdodD0iMTkiIHJ4PSI0Ij48L3JlY3Q+CiAgICA8L2c+Cjwvc3ZnPgo=",
+    "description": "「グラデーション」(縦)カラーボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUxICg1NzQ2MikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+ZmlsbC12ZXJ0LWdyYWRpZW50LWVuYWJsZWQ8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgeDE9IjUwJSIgeTE9IjEwMCUiIHgyPSI1MCUiIHkyPSIzLjA2MTYxN2UtMTUlIiBpZD0ibGluZWFyR3JhZGllbnQtMSI+CiAgICAgICAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNGRkZGRkYiIG9mZnNldD0iMCUiPjwvc3RvcD4KICAgICAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzg1NUNENiIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+CiAgICAgICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDwvZGVmcz4KICAgIDxnIGlkPSJmaWxsLXZlcnQtZ3JhZGllbnQtZW5hYmxlZCIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLW9wYWNpdHk9IjAuMTUiPgogICAgICAgIDxyZWN0IGlkPSJWZXJ0aWNhbCIgc3Ryb2tlPSIjMDAwMDAwIiBmaWxsPSJ1cmwoI2xpbmVhckdyYWRpZW50LTEpIiB4PSIwLjUiIHk9IjAuNSIgd2lkdGg9IjE5IiBoZWlnaHQ9IjE5IiByeD0iNCI+PC9yZWN0PgogICAgPC9nPgo8L3N2Zz4K",
+    "description": "「グラデーション」(横)カラーボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUxICg1NzQ2MikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+ZmlsbC1yYWRpYWwtZW5hYmxlZDwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPgogICAgICAgIDxyYWRpYWxHcmFkaWVudCBjeD0iNTAlIiBjeT0iNTAlIiBmeD0iNTAlIiBmeT0iNTAlIiByPSIzOS4zODk2NDg0JSIgaWQ9InJhZGlhbEdyYWRpZW50LTEiPgogICAgICAgICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjODU1Q0Q2IiBvZmZzZXQ9IjAlIj48L3N0b3A+CiAgICAgICAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNGRkZGRkYiIG9mZnNldD0iMTAwJSI+PC9zdG9wPgogICAgICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8ZyBpZD0iZmlsbC1yYWRpYWwtZW5hYmxlZCIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLW9wYWNpdHk9IjAuMTUiPgogICAgICAgIDxyZWN0IGlkPSJSYWRpYWwiIHN0cm9rZT0iIzAwMDAwMCIgZmlsbD0idXJsKCNyYWRpYWxHcmFkaWVudC0xKSIgeD0iMC41IiB5PSIwLjUiIHdpZHRoPSIxOSIgaGVpZ2h0PSIxOSIgcng9IjQiPjwvcmVjdD4KICAgIDwvZz4KPC9zdmc+Cg==",
+    "description": "「グラデーション」(中心)カラーボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/b14c7ec63fe05b011b845a3ebe47e812.svg",
+    "description": "「入れ替え」カラーボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+bm8tZmlsbDwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiPgogICAgICAgIDxnIGlkPSJuby1maWxsIiBzdHJva2U9IiNGRjY2MUEiIHN0cm9rZS13aWR0aD0iMiI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0zLDE3IEwxNywzIiBpZD0iTGluZSI+PC9wYXRoPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+",
+    "description": "「無色」カラーボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/589eaf6a247df5343b584fd0fa848489.svg",
+    "description": "「カラー取得」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0OC4yICg0NzMyNykgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+Y29weSB2MjwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJjb3B5LXYyIj4KICAgICAgICAgICAgPGcgaWQ9ImNvcHkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMuMDAwMDAwLCAyLjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPHBvbHlsaW5lIGlkPSJQYXRoLTMiIHN0cm9rZS1vcGFjaXR5PSIwLjUiIHN0cm9rZT0iIzU3NUU3NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtZGFzaGFycmF5PSIxLDIiIHBvaW50cz0iMC41MDMxNzM4MjggMyAwLjUwMzE3MzgyOCAxNS41IDEzIDE1LjUiPjwvcG9seWxpbmU+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMiwxLjAwNjg0NTQ3IEMyLDAuNDUwNzgwMDczIDIuNDUzMDM2MzEsMCAyLjk5NzAzMDE0LDAgTDEwLDAgTDEwLDIuMzQ5OTUzMTcgQzEwLDMuMjYxMjQ4ODcgMTAuNzMzNjYxNyw0IDExLjY1MDA0NjgsNCBMMTQsNCBMMTQsMTMuMDA0NjAyNCBDMTQsMTMuNTU0MzQ1MyAxMy41NDQyMzksMTQgMTIuOTk3NTI2NywxNCBMMy4wMDI0NzMyOSwxNCBDMi40NDg4MjI1OCwxNCAyLDEzLjU1MDA1MTIgMiwxMi45OTMxNTQ1IEwyLDEuMDA2ODQ1NDcgWiIgaWQ9IlJlY3RhbmdsZS00IiBmaWxsPSIjODU1Q0Q2Ij48L3BhdGg+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTEsMCBMMTQsMyBMMTEuOTk4OTU2NiwzIEMxMS40NDcyNDgxLDMgMTEsMi41NTczMzk2NyAxMSwyLjAwMTA0MzQ0IEwxMSwwIFoiIGlkPSJSZWN0YW5nbGUtNSIgZmlsbD0iIzg1NUNENiI+PC9wYXRoPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTkuODExNTk0Miw5LjE4ODQwNTggTDguNjg4NDA1OCw5LjE4ODQwNTggTDguNjg4NDA1OCwxMC4zMTE1OTQyIEM4LjY4ODQwNTgsMTAuNjg1OTkwMyA4LjM4NjQ3MzQzLDExIDgsMTEgQzcuNjEzNTI2NTcsMTEgNy4zMTE1OTQyLDEwLjY4NTk5MDMgNy4zMTE1OTQyLDEwLjMxMTU5NDIgTDcuMzExNTk0Miw5LjE4ODQwNTggTDYuMTg4NDA1OCw5LjE4ODQwNTggQzUuODE0MDA5NjYsOS4xODg0MDU4IDUuNSw4Ljg4NjQ3MzQzIDUuNSw4LjUgQzUuNSw4LjExMzUyNjU3IDUuODE0MDA5NjYsNy44MTE1OTQyIDYuMTg4NDA1OCw3LjgxMTU5NDIgTDcuMzExNTk0Miw3LjgxMTU5NDIgTDcuMzExNTk0Miw2LjY4ODQwNTggQzcuMzExNTk0Miw2LjMxMjgwMTkzIDcuNjEzNTI2NTcsNiA4LDYgQzguMzg2NDczNDMsNiA4LjY4ODQwNTgsNi4zMTI4MDE5MyA4LjY4ODQwNTgsNi42ODg0MDU4IEw4LjY4ODQwNTgsNy44MTE1OTQyIEw5LjgxMTU5NDIsNy44MTE1OTQyIEMxMC4xODU5OTAzLDcuODExNTk0MiAxMC41LDguMTEzNTI2NTcgMTAuNSw4LjUgQzEwLjUsOC44ODY0NzM0MyAxMC4xODU5OTAzLDkuMTg4NDA1OCA5LjgxMTU5NDIsOS4xODg0MDU4IFoiIGlkPSJGaWxsLTEiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSIwLjI1IiBmaWxsPSIjRkZGRkZGIj48L3BhdGg+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPgo=",
+    "description": "「コピー」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/ccffa5bb71a2219a2c0d91121edb46ea.svg",
+    "description": "「貼り付け」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUwLjIgKDU1MDQ3KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5kZWxldGU8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iZGVsZXRlIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iRGVsZXRlLUljb24iIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIuMDAwMDAwLCAxLjUwMDAwMCkiIGZpbGw9IiM4NTVDRDYiIGZpbGwtcnVsZT0ibm9uemVybyI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0yLDMuMjUgTDE0LDMuMjUgQzE0LjQ0MzcxNjQsMy4yNSAxNC43OTA0MjkzLDMuNjMzMTEzNDMgMTQuNzQ2Mjc3OSw0LjA3NDYyNzc5IEwxMy42MzYzMjc1LDE1LjE3NDEzMTUgQzEzLjU0Njg2NzIsMTYuMDY4NzM0NyAxMi43OTQwNzc1LDE2Ljc1IDExLjg5NTAxMjQsMTYuNzUgTDQuMTA0OTg3NTYsMTYuNzUgQzMuMjA1OTIyNTMsMTYuNzUgMi40NTMxMzI3OSwxNi4wNjg3MzQ3IDIuMzYzNjcyNDgsMTUuMTc0MTMxNSBMMS4yNTM3MjIxMSw0LjA3NDYyNzc5IEMxLjIwOTU3MDY3LDMuNjMzMTEzNDMgMS41NTYyODM1NiwzLjI1IDIsMy4yNSBaIE04Ljc1LDEyIEw4Ljc1LDcgQzguNzUsNi41ODU3ODY0NCA4LjQxNDIxMzU2LDYuMjUgOCw2LjI1IEM3LjU4NTc4NjQ0LDYuMjUgNy4yNSw2LjU4NTc4NjQ0IDcuMjUsNyBMNy4yNSwxMiBDNy4yNSwxMi40MTQyMTM2IDcuNTg1Nzg2NDQsMTIuNzUgOCwxMi43NSBDOC40MTQyMTM1NiwxMi43NSA4Ljc1LDEyLjQxNDIxMzYgOC43NSwxMiBaIE0xMS4yNSwxMiBMMTEuMjUsNyBDMTEuMjUsNi41ODU3ODY0NCAxMC45MTQyMTM2LDYuMjUgMTAuNSw2LjI1IEMxMC4wODU3ODY0LDYuMjUgOS43NSw2LjU4NTc4NjQ0IDkuNzUsNyBMOS43NSwxMiBDOS43NSwxMi40MTQyMTM2IDEwLjA4NTc4NjQsMTIuNzUgMTAuNSwxMi43NSBDMTAuOTE0MjEzNiwxMi43NSAxMS4yNSwxMi40MTQyMTM2IDExLjI1LDEyIFogTTYuMjUsMTIgTDYuMjUsNyBDNi4yNSw2LjU4NTc4NjQ0IDUuOTE0MjEzNTYsNi4yNSA1LjUsNi4yNSBDNS4wODU3ODY0NCw2LjI1IDQuNzUsNi41ODU3ODY0NCA0Ljc1LDcgTDQuNzUsMTIgQzQuNzUsMTIuNDE0MjEzNiA1LjA4NTc4NjQ0LDEyLjc1IDUuNSwxMi43NSBDNS45MTQyMTM1NiwxMi43NSA2LjI1LDEyLjQxNDIxMzYgNi4yNSwxMiBaIE0xLjUsNCBMMTQuNSw0IEwxLjUsNCBaIE0xLjUsMyBMMTQuNSwzIEMxNS4wNTIyODQ3LDMgMTUuNSwzLjQ0NzcxNTI1IDE1LjUsNCBDMTUuNSw0LjU1MjI4NDc1IDE1LjA1MjI4NDcsNSAxNC41LDUgTDEuNSw1IEMwLjk0NzcxNTI1LDUgMC41LDQuNTUyMjg0NzUgMC41LDQgQzAuNSwzLjQ0NzcxNTI1IDAuOTQ3NzE1MjUsMyAxLjUsMyBaIE05LjI1LDMuMjUgTDkuMjUsMiBDOS4yNSwxLjg2MTkyODgxIDkuMTM4MDcxMTksMS43NSA5LDEuNzUgTDcsMS43NSBDNi44NjE5Mjg4MSwxLjc1IDYuNzUsMS44NjE5Mjg4MSA2Ljc1LDIgTDYuNzUsMy4yNSBMOS4yNSwzLjI1IFogTTcsMC4yNSBMOSwwLjI1IEM5Ljk2NjQ5ODMxLDAuMjUgMTAuNzUsMS4wMzM1MDE2OSAxMC43NSwyIEwxMC43NSw0Ljc1IEw1LjI1LDQuNzUgTDUuMjUsMiBDNS4yNSwxLjAzMzUwMTY5IDYuMDMzNTAxNjksMC4yNSA3LDAuMjUgWiIgaWQ9IkNvbWJpbmVkLVNoYXBlIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4K",
+    "description": "「削除」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+ZmxpcC1ob3Jpem9udGFsPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9ImZsaXAtaG9yaXpvbnRhbCI+CiAgICAgICAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIuMDAwMDAwLCAzLjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPGNpcmNsZSBpZD0iT3ZhbCIgZmlsbD0iIzU3NUU3NSIgb3BhY2l0eT0iMC41IiBjeD0iOCIgY3k9IjAuNzUiIHI9IjEiPjwvY2lyY2xlPgogICAgICAgICAgICAgICAgPGNpcmNsZSBpZD0iT3ZhbCIgZmlsbD0iIzU3NUU3NSIgb3BhY2l0eT0iMC41IiBjeD0iOCIgY3k9IjEzLjI1IiByPSIxIj48L2NpcmNsZT4KICAgICAgICAgICAgICAgIDxjaXJjbGUgaWQ9Ik92YWwtQ29weSIgZmlsbD0iIzU3NUU3NSIgb3BhY2l0eT0iMC41IiBjeD0iOCIgY3k9IjMuODc1IiByPSIxIj48L2NpcmNsZT4KICAgICAgICAgICAgICAgIDxjaXJjbGUgaWQ9Ik92YWwtQ29weS0yIiBmaWxsPSIjNTc1RTc1IiBvcGFjaXR5PSIwLjUiIGN4PSI4IiBjeT0iNyIgcj0iMSI+PC9jaXJjbGU+CiAgICAgICAgICAgICAgICA8Y2lyY2xlIGlkPSJPdmFsLUNvcHktMyIgZmlsbD0iIzU3NUU3NSIgb3BhY2l0eT0iMC41IiBjeD0iOCIgY3k9IjEwLjEyNSIgcj0iMSI+PC9jaXJjbGU+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTYsMy4wODQyNTQyMyBMMTYsMTAuOTE1NzQ1OCBDMTYsMTEuNDM0MjYyNiAxNS4yNTc0NDkxLDExLjY5NTY5OTYgMTQuODIzNTc5OCwxMS4zMjgyMzUzIEwxMC4yMDE5MjkzLDcuNDExMDM3MTEgQzkuOTMyNjkwMjUsNy4xODQ0NTgzNSA5LjkzMjY5MDI1LDYuODE0MDg5MjIgMTAuMjAxOTI5Myw2LjU4NzUxMDQ2IEwxNC44MjM1Nzk4LDIuNjcxNzY0NjkgQzE1LjI1NzQ0OTEsMi4zMDQzMDA0MiAxNiwyLjU2NTczNzQ1IDE2LDMuMDg0MjU0MjMiIGlkPSJGaWxsLTExIiBmaWxsPSIjODU1Q0Q2IiBvcGFjaXR5PSIwLjUiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLDEwLjkxNTc0NTggTDAsMy4wODQyNTQyMyBDMCwyLjU2NTczNzQ1IDAuNzQyNTUwOTExLDIuMzA0MzAwNDIgMS4xNzQ3MDUyNSwyLjY3MTc2NDY5IEw1Ljc5ODA3MDc0LDYuNTg4OTYyODkgQzYuMDY3MzA5NzUsNi44MTU1NDE2NSA2LjA2NzMwOTc1LDcuMTg1OTEwNzggNS43OTgwNzA3NCw3LjQxMjQ4OTU0IEwxLjE3NDcwNTI1LDExLjMyODIzNTMgQzAuNzQyNTUwOTExLDExLjY5NTY5OTYgMCwxMS40MzQyNjI2IDAsMTAuOTE1NzQ1OCIgaWQ9IkZpbGwtMTQiIGZpbGw9IiM4NTVDRDYiPjwvcGF0aD4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg==",
+    "description": "「左右反転」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+ZmxpcC12ZXJ0aWNhbDwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJmbGlwLXZlcnRpY2FsIj4KICAgICAgICAgICAgPGcgaWQ9ImZsaXAtaG9yaXpvbnRhbCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTAuMDAwMDAwLCAxMC4wMDAwMDApIHJvdGF0ZSg5MC4wMDAwMDApIHRyYW5zbGF0ZSgtMTAuMDAwMDAwLCAtMTAuMDAwMDAwKSB0cmFuc2xhdGUoMi4wMDAwMDAsIDMuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8Y2lyY2xlIGlkPSJPdmFsIiBmaWxsPSIjNTc1RTc1IiBvcGFjaXR5PSIwLjUiIGN4PSI4IiBjeT0iMC43NSIgcj0iMSI+PC9jaXJjbGU+CiAgICAgICAgICAgICAgICA8Y2lyY2xlIGlkPSJPdmFsIiBmaWxsPSIjNTc1RTc1IiBvcGFjaXR5PSIwLjUiIGN4PSI4IiBjeT0iMTMuMjUiIHI9IjEiPjwvY2lyY2xlPgogICAgICAgICAgICAgICAgPGNpcmNsZSBpZD0iT3ZhbC1Db3B5IiBmaWxsPSIjNTc1RTc1IiBvcGFjaXR5PSIwLjUiIGN4PSI4IiBjeT0iMy44NzUiIHI9IjEiPjwvY2lyY2xlPgogICAgICAgICAgICAgICAgPGNpcmNsZSBpZD0iT3ZhbC1Db3B5LTIiIGZpbGw9IiM1NzVFNzUiIG9wYWNpdHk9IjAuNSIgY3g9IjgiIGN5PSI3IiByPSIxIj48L2NpcmNsZT4KICAgICAgICAgICAgICAgIDxjaXJjbGUgaWQ9Ik92YWwtQ29weS0zIiBmaWxsPSIjNTc1RTc1IiBvcGFjaXR5PSIwLjUiIGN4PSI4IiBjeT0iMTAuMTI1IiByPSIxIj48L2NpcmNsZT4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xNiwzLjA4NDI1NDIzIEwxNiwxMC45MTU3NDU4IEMxNiwxMS40MzQyNjI2IDE1LjI1NzQ0OTEsMTEuNjk1Njk5NiAxNC44MjM1Nzk4LDExLjMyODIzNTMgTDEwLjIwMTkyOTMsNy40MTEwMzcxMSBDOS45MzI2OTAyNSw3LjE4NDQ1ODM1IDkuOTMyNjkwMjUsNi44MTQwODkyMiAxMC4yMDE5MjkzLDYuNTg3NTEwNDYgTDE0LjgyMzU3OTgsMi42NzE3NjQ2OSBDMTUuMjU3NDQ5MSwyLjMwNDMwMDQyIDE2LDIuNTY1NzM3NDUgMTYsMy4wODQyNTQyMyIgaWQ9IkZpbGwtMTEiIGZpbGw9IiM4NTVDRDYiIG9wYWNpdHk9IjAuNSI+PC9wYXRoPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTAsMTAuOTE1NzQ1OCBMMCwzLjA4NDI1NDIzIEMwLDIuNTY1NzM3NDUgMC43NDI1NTA5MTEsMi4zMDQzMDA0MiAxLjE3NDcwNTI1LDIuNjcxNzY0NjkgTDUuNzk4MDcwNzQsNi41ODg5NjI4OSBDNi4wNjczMDk3NSw2LjgxNTU0MTY1IDYuMDY3MzA5NzUsNy4xODU5MTA3OCA1Ljc5ODA3MDc0LDcuNDEyNDg5NTQgTDEuMTc0NzA1MjUsMTEuMzI4MjM1MyBDMC43NDI1NTA5MTEsMTEuNjk1Njk5NiAwLDExLjQzNDI2MjYgMCwxMC45MTU3NDU4IiBpZD0iRmlsbC0xNCIgZmlsbD0iIzg1NUNENiI+PC9wYXRoPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4K",
+    "description": "「上下反転」ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+c2VsZWN0PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9InNlbGVjdCIgZmlsbD0iIzU3NUU3NSI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik05LjA4NDgwNzA5LDEyLjc1MTkxMzEgTDEwLjI2OTI5MzcsMTUuMzkxMDc1MyBDMTAuNTAyNTI4MSwxNS45MTI4NDggMTEuMTEwNTA5OCwxNi4xNDMyNzU1IDExLjYyNjc3MDEsMTUuOTA3NTUwOCBDMTIuMTQzMDMwNCwxNS42NzA1MDE4IDEyLjM3MTAyMzYsMTUuMDU2MDI4NCAxMi4xMzc3ODkyLDE0LjUzNTU4IEwxMC45NjY5NjI3LDExLjkyNTcyOCBMMTMuOTI1ODUzLDExLjkyNTcyOCBDMTQuNTEzMDQ4NiwxMS45MjU3MjggMTQuNzkzNzY5MywxMS4yMTIxOTQ4IDE0LjM2MjM4NjUsMTAuODE5MDQ5NSBMNy4wNzkxMDA3LDQuMTcwMDQyOTQgQzYuNjY3MDMzNiwzLjc5MzQ5MTQgNiw0LjA4MzI0NDYyIDYsNC42Mzg0OTg1NyBMNiwxNC41MDI4NzIyIEM2LDE1LjA5MDAzNzMgNi43MzAxMzEzOCwxNS4zNjU3NDk2IDcuMTIyODgyODIsMTQuOTI3OTI4NyBMOS4wODQ4MDcwOSwxMi43NTE5MTMxIFoiIGlkPSJzZWxlY3QtaWNvbiI+PC9wYXRoPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+",
+    "description": "「選択」ツールボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/3e6a0a68ee1872bee1f93e4428bcb993.svg",
+    "description": "「形を変える」ツールボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+YnJ1c2g8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgogICAgICAgIDxnIGlkPSJicnVzaCIgc3Ryb2tlPSIjNTc1RTc1IiBzdHJva2Utd2lkdGg9IjAuNSIgZmlsbD0iIzU3NUU3NSI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMi41Nzg3MjI1LDExLjIxMDIwMjYgQzExLjYxOTYyODQsMTIuMTY5Mjk2NyAxMC45MTI5Mjc0LDEyLjY2MTQ2MzQgMTAuMzU3NjYyNCwxMi44NTA3NTgzIEMxMC4xOTM2MDY5LDEyLjM0NTk3MTkgOS45MTU5NzQzNywxMS44NzkwNDQ1IDkuNTI0NzY0OTQsMTEuNDg3ODM1MSBDOS4xMjA5MzU4NSwxMS4wOTY2MjU3IDguNjU0MDA4NDYsMTAuODE4OTkzMiA4LjE0OTIyMjA5LDEwLjY0MjMxNzkgQzguMzUxMTM2NjQsMTAuMDg3MDUyOSA4Ljg0MzMwMzM1LDkuMzgwMzUyMDMgOS43ODk3Nzc3OCw4LjQzMzg3NzU5IEMxMi4wNjEzMTY0LDYuMTQ5NzE5MjkgMTYuMDk5NjA3NCwzLjM2MDc3NDYxIDE2Ljg2OTQwNjYsNC4xMzA1NzM4MiBDMTcuNjM5MjA1OCw0LjkwMDM3MzAzIDE0Ljg1MDI2MTEsOC45Mzg2NjM5NiAxMi41Nzg3MjI1LDExLjIxMDIwMjYgWiBNOC4zOTEyNDMzNCwxNS40MTIwMTA0IEM4LjAxNTY5MTk3LDE1Ljc3NDg2NTcgNy41MzExMDk1NSwxNS45NjIxNDU5IDcuMDQ2NTI3MTMsMTUuOTg1NTU1OSBMNy4wNDY1MjcxMywxNS45OTcyNjA5IEw2LjkyNTM4MTUzLDE1Ljk5NzI2MDkgQzMuNjc4Njc5MzQsMTYuMTE0MzExIDIuMjYxMjc1NzcsMTIuNDM4OTM3OSAzLjM3NTgxNTMzLDEyLjgyNTIwMzIgQzQuODQxNjc3MTQsMTMuMzI4NTE4NiA1LjQzNjUwMjA1LDEyLjYwMjgwOCA1LjQ1OTUxOTcyLDEyLjU3OTM5OCBDNi4yNzExOTUyNywxMS44MDY4NjczIDcuNTc5NTY3NzksMTEuODA2ODY3MyA4LjM5MTI0MzM0LDEyLjU3OTM5OCBDOS4yMDI5MTg4OSwxMy4zNjM2MzM3IDkuMjAyOTE4ODksMTQuNjM5NDc5OCA4LjM5MTI0MzM0LDE1LjQxMjAxMDQgWiIgaWQ9ImJ1cnNoLWljb24iPjwvcGF0aD4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==",
+    "description": "「筆」ツールボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+ZXJhc2VyPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9ImVyYXNlciIgZmlsbD0iIzU3NUU3NSI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMy41MzcwMDYxLDE0LjgyOTE1OTcgTDEwLjk2NjA1NDUsMTQuODI5MTU5NyBMOC4zMDE2MTM4LDEyLjE2NDcxOSBMMTEuMTY4NjE0NCw5LjI5NzcxODQyIEwxNS4xMjYzMjE2LDEzLjI1NTQyNTcgTDEzLjUzNzAwNjEsMTQuODI5MTU5NyBaIE0xNi43Nzc5NjMzLDEyLjY5NDQ5MDggTDExLjE2ODYxNDQsNy4xMDA3MjM0MyBMOC4zMDE2MTM4LDQuMjMzNzIyODcgQzguMDA1NTY0ODMsMy45MjIwOTIzOCA3LjUwNjk1NjA0LDMuOTIyMDkyMzggNy4xOTUzMjU1NCw0LjIzMzcyMjg3IEwzLjIyMjAzNjczLDguMjA3MDExNjkgQzIuOTI1OTg3NzYsOC41MDMwNjA2NiAyLjkyNTk4Nzc2LDkuMDAxNjY5NDUgMy4yMjIwMzY3Myw5LjI5NzcxODQyIEw2LjEwNDYxODgxLDEyLjE2NDcxOSBMMTAuMDkzNDg5MSwxNi4xNTM1ODkzIEMxMC4yMzM3MjI5LDE2LjMwOTQwNDYgMTAuNDM2MjgyNywxNi4zODczMTIyIDEwLjYzODg0MjUsMTYuMzg3MzEyMiBMMTMuODY0MjE4MSwxNi4zODczMTIyIEMxNC4wNjY3NzgsMTYuMzg3MzEyMiAxNC4yNjkzMzc4LDE2LjMwOTQwNDYgMTQuNDA5NTcxNSwxNi4xNTM1ODkzIEwxNi43Nzc5NjMzLDEzLjgwMDc3OTEgQzE3LjA3NDAxMjIsMTMuNTA0NzMwMSAxNy4wNzQwMTIyLDEzLjAwNjEyMTMgMTYuNzc3OTYzMywxMi42OTQ0OTA4IEwxNi43Nzc5NjMzLDEyLjY5NDQ5MDggWiIgaWQ9ImVyYXNlci1pY29uIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=",
+    "description": "「消しゴム」ツールボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/cee477fa706ab6fe733a65edd475c41b.svg",
+    "description": "「塗りつぶし」ツールボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+dGV4dDwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJ0ZXh0IiBmaWxsPSIjNTc1RTc1Ij4KICAgICAgICAgICAgPHBhdGggZD0iTTE2LDQuMzUyOTQxMTggTDE2LDYuODUxNzY0NzEgQzE2LDcuMDQ5NDExNzYgMTUuODQ0NzA1OSw3LjIwNDcwNTg4IDE1LjY0NzA1ODgsNy4yMDQ3MDU4OCBMMTQuODk4ODIzNSw3LjIwNDcwNTg4IEMxNC43NTc2NDcxLDcuMjA0NzA1ODggMTQuNjE2NDcwNiw3LjEyIDE0LjU3NDExNzYsNi45OTI5NDExOCBMMTQuMjA3MDU4OCw2LjExNzY0NzA2IEwxMS4wNTg4MjM1LDYuMTE3NjQ3MDYgTDExLjA1ODgyMzUsMTQuMjkxNzY0NyBMMTEuOTIsMTQuNjE2NDcwNiBDMTIuMDYxMTc2NSwxNC42NzI5NDEyIDEyLjE2LDE0LjggMTIuMTYsMTQuOTU1Mjk0MSBMMTIuMTYsMTUuNjQ3MDU4OCBDMTIuMTYsMTUuODQ0NzA1OSAxMS45OTA1ODgyLDE2IDExLjgwNzA1ODgsMTYgTDguMjA3MDU4ODIsMTYgQzguMDIzNTI5NDEsMTYgNy44NTQxMTc2NSwxNS44NDQ3MDU5IDcuODU0MTE3NjUsMTUuNjQ3MDU4OCBMNy44NTQxMTc2NSwxNC45NTUyOTQxIEM3Ljg1NDExNzY1LDE0LjggNy45NTI5NDExOCwxNC42NzI5NDEyIDguMDgsMTQuNjE2NDcwNiBMOC45NDExNzY0NywxNC4yOTE3NjQ3IEw4Ljk0MTE3NjQ3LDYuMTE3NjQ3MDYgTDUuODA3MDU4ODIsNi4xMTc2NDcwNiBMNS40NCw2Ljk5Mjk0MTE4IEM1LjM4MzUyOTQxLDcuMTIgNS4yNTY0NzA1OSw3LjIwNDcwNTg4IDUuMTE1Mjk0MTIsNy4yMDQ3MDU4OCBMNC4zNTI5NDExOCw3LjIwNDcwNTg4IEM0LjE2OTQxMTc2LDcuMjA0NzA1ODggNCw3LjA0OTQxMTc2IDQsNi44NTE3NjQ3MSBMNCw0LjM1Mjk0MTE4IEM0LDQuMTU1Mjk0MTIgNC4xNjk0MTE3Niw0IDQuMzUyOTQxMTgsNCBMMTUuNjQ3MDU4OCw0IEMxNS44NDQ3MDU5LDQgMTYsNC4xNTUyOTQxMiAxNiw0LjM1Mjk0MTE4IiBpZD0idGV4dC1pY29uIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=",
+    "description": "「テキスト」ツールボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+bGluZTwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiPgogICAgICAgIDxnIGlkPSJsaW5lIiBzdHJva2U9IiM1NzVFNzUiIHN0cm9rZS13aWR0aD0iMiI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik01LDE1IEwxNSw1IiBpZD0iTGluZSI+PC9wYXRoPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+",
+    "description": "「直線」ツールボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+b3ZhbDwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJvdmFsIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlPSIjNTc1RTc1Ij4KICAgICAgICAgICAgPGNpcmNsZSBpZD0ib3ZhbC1pY29uIiBjeD0iMTAiIGN5PSIxMCIgcj0iNSI+PC9jaXJjbGU+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=",
+    "description": "「円」ツールボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+cmVjdGFuZ2xlPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgICAgICA8ZyBpZD0icmVjdGFuZ2xlIiBzdHJva2U9IiM1NzVFNzUiIHN0cm9rZS13aWR0aD0iMS41Ij4KICAgICAgICAgICAgPHJlY3QgaWQ9InJlY3RhbmdsZS1pY29uIiB4PSI1IiB5PSI1IiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiPjwvcmVjdD4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==",
+    "description": "「四角」ツールボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0Ny4xICg0NTQyMikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+Yml0bWFwPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9ImJpdG1hcCIgZmlsbD0iI0ZGRkZGRiI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik00LDMgTDE2LDMgTDE2LDQgTDQsNCBMNCwzIFogTTIsNSBMMyw1IEwzLDEzIEwyLDEzIEwyLDUgWiBNMTcsNSBMMTgsNSBMMTgsMTMgTDE3LDEzIEwxNyw1IFogTTIsMTMgTDE4LDEzIEwxOCwxNSBMMiwxNSBMMiwxMyBaIE00LDEyIEwxNiwxMiBMMTYsMTMgTDQsMTMgTDQsMTIgWiBNNSwxMSBMOCwxMSBMOCwxMiBMNSwxMiBMNSwxMSBaIE02LDEwIEw3LDEwIEw3LDExIEw2LDExIEw2LDEwIFogTTksMTEgTDE2LDExIEwxNiwxMiBMOSwxMiBMOSwxMSBaIE0xMCwxMCBMMTUsMTAgTDE1LDExIEwxMCwxMSBMMTAsMTAgWiBNMTEsOSBMMTQsOSBMMTQsMTAgTDExLDEwIEwxMSw5IFogTTEyLDggTDEzLDggTDEzLDkgTDEyLDkgTDEyLDggWiBNMTYsMTIgTDE3LDEyIEwxNywxMyBMMTYsMTMgTDE2LDEyIFogTTMsMTUgTDE3LDE1IEwxNywxNiBMMywxNiBMMywxNSBaIE0zLDQgTDQsNCBMNCw1IEwzLDUgTDMsNCBaIE0xNiw0IEwxNyw0IEwxNyw1IEwxNiw1IEwxNiw0IFogTTQsMTYgTDE2LDE2IEwxNiwxNyBMNCwxNyBMNCwxNiBaIiBpZD0iQ29tYmluZWQtU2hhcGUiPjwvcGF0aD4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==",
+    "description": "「ビットマップに変換」アイコン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB2aWV3Qm94PSI2IDYgMjQgMjQiPgo8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgICAuY2xzLTR7ZmlsbDpub25lO3N0cm9rZTojNTc1ZTc1O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2Utd2lkdGg6MS41cHg7fQogICAgPC9zdHlsZT4KPC9kZWZzPgo8dGl0bGU+em9vbS1pbjwvdGl0bGU+CjxnIGNsYXNzPSJjbHMtMyI+CiAgICA8Y2lyY2xlIGNsYXNzPSJjbHMtNCIgY3g9IjE4IiBjeT0iMTgiIHI9IjciLz4KICAgIDxsaW5lIGNsYXNzPSJjbHMtNCIgeDE9IjIzIiB5MT0iMjMiIHgyPSIyNiIgeTI9IjI2Ii8+CiAgICA8bGluZSBjbGFzcz0iY2xzLTQiIHgxPSIxNiIgeTE9IjE4IiB4Mj0iMjAiIHkyPSIxOCIvPgogICAgPGxpbmUgY2xhc3M9ImNscy00IiB4MT0iMTgiIHkxPSIxNiIgeDI9IjE4IiB5Mj0iMjAiLz4KPC9nPgo8L3N2Zz4K",
+    "description": "「+」(ズーム)ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB2aWV3Qm94PSI2IDYgMjQgMjQiPgo8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgICAuY2xzLTR7ZmlsbDpub25lO3N0cm9rZTojNTc1ZTc1O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2Utd2lkdGg6MS41cHg7fQogICAgPC9zdHlsZT4KPC9kZWZzPgo8dGl0bGU+em9vbS1vdXQ8L3RpdGxlPgo8ZyBjbGFzcz0iY2xzLTMiPgogICAgPGNpcmNsZSBjbGFzcz0iY2xzLTQiIGN4PSIxOCIgY3k9IjE4IiByPSI3Ii8+CiAgICA8bGluZSBjbGFzcz0iY2xzLTQiIHgxPSIyMyIgeTE9IjIzIiB4Mj0iMjYiIHkyPSIyNiIvPgogICAgPGxpbmUgY2xhc3M9ImNscy00IiB4MT0iMTYiIHkxPSIxOCIgeDI9IjIwIiB5Mj0iMTgiLz4KPC9nPgo8L3N2Zz4K",
+    "description": "「-」(ズームアウト)ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB2aWV3Qm94PSI2IDYgMjQgMjQiPgo8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgICAuY2xzLTR7ZmlsbDojNTc1ZTc1O30KICAgIDwvc3R5bGU+CjwvZGVmcz4KPHRpdGxlPnpvb20tcmVzZXQ8L3RpdGxlPgo8ZyBjbGFzcz0iY2xzLTMiPgogICAgPHJlY3QgY2xhc3M9ImNscy00IiB4PSIxMyIgeT0iMTQiIHdpZHRoPSIxMCIgaGVpZ2h0PSIyIiByeD0iMSIgcnk9IjEiLz4KICAgIDxyZWN0IGNsYXNzPSJjbHMtNCIgeD0iMTMiIHk9IjIwIiB3aWR0aD0iMTAiIGhlaWdodD0iMiIgcng9IjEiIHJ5PSIxIi8+CjwvZz4KPC9zdmc+Cg==",
+    "description": "「=」(ズームアウト)ボタン",
+    "tags": ["エディター","コスチュームエディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDU2LjEgKDgxNjY5KSAtIGh0dHBzOi8vc2tldGNoLmNvbSAtLT4KICAgIDx0aXRsZT5Tb3VuZC9HZW5lcmFsL0NvcHk8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZyBpZD0iU291bmQvR2VuZXJhbC9Db3B5IiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iU2Vjb25kYXJ5LUNvbG9yIiBvcGFjaXR5PSIwLjI1IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyLjAwMDAwMCwgNC4wMDAwMDApIiBmaWxsPSIjODU1Q0Q2Ij4KICAgICAgICAgICAgPHJlY3QgaWQ9InNlbGVjdGlvbiIgeD0iMCIgeT0iMCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjEyIj48L3JlY3Q+CiAgICAgICAgPC9nPgogICAgICAgIDxnIGlkPSJQcmltYXJ5LUNvbG9yIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwgMi4wMDAwMDApIiBmaWxsPSIjODU1Q0Q2IiBmaWxsLXJ1bGU9Im5vbnplcm8iPgogICAgICAgICAgICA8cGF0aCBkPSJNMS41LDMuOTM2OTkxMjYgQzAuNjM3Mzg2Mzk0LDMuNzE0OTY5ODYgMCwyLjkzMTkxOTcxIDAsMiBDMCwwLjg5NTQzMDUgMC44OTU0MzA1LDAgMiwwIEMzLjEwNDU2OTUsMCA0LDAuODk1NDMwNSA0LDIgQzQsMi45MzE5MTk3MSAzLjM2MjYxMzYxLDMuNzE0OTY5ODYgMi41LDMuOTM2OTkxMjYgTDIuNSwxMi4wNjMwMDg3IEMzLjM2MjYxMzYxLDEyLjI4NTAzMDEgNCwxMy4wNjgwODAzIDQsMTQgQzQsMTUuMTA0NTY5NSAzLjEwNDU2OTUsMTYgMiwxNiBDMC44OTU0MzA1LDE2IDAsMTUuMTA0NTY5NSAwLDE0IEMwLDEzLjA2ODA4MDMgMC42MzczODYzOTQsMTIuMjg1MDMwMSAxLjUsMTIuMDYzMDA4NyBMMS41LDMuOTM2OTkxMjYgWiBNMTcuNSwxMi4wNjMwMDg3IEwxNy41LDMuOTM2OTkxMjYgQzE2LjYzNzM4NjQsMy43MTQ5Njk4NiAxNiwyLjkzMTkxOTcxIDE2LDIgQzE2LDAuODk1NDMwNSAxNi44OTU0MzA1LDAgMTgsMCBDMTkuMTA0NTY5NSwwIDIwLDAuODk1NDMwNSAyMCwyIEMyMCwyLjkzMTkxOTcxIDE5LjM2MjYxMzYsMy43MTQ5Njk4NiAxOC41LDMuOTM2OTkxMjYgTDE4LjUsMTIuMDYzMDA4NyBDMTkuMzYyNjEzNiwxMi4yODUwMzAxIDIwLDEzLjA2ODA4MDMgMjAsMTQgQzIwLDE1LjEwNDU2OTUgMTkuMTA0NTY5NSwxNiAxOCwxNiBDMTYuODk1NDMwNSwxNiAxNiwxNS4xMDQ1Njk1IDE2LDE0IEMxNiwxMy4wNjgwODAzIDE2LjYzNzM4NjQsMTIuMjg1MDMwMSAxNy41LDEyLjA2MzAwODcgWiBNMTEsNyBMMTIsNyBDMTIuNTUyMjg0Nyw3IDEzLDcuNDQ3NzE1MjUgMTMsOCBDMTMsOC41NTIyODQ3NSAxMi41NTIyODQ3LDkgMTIsOSBMMTEsOSBMMTEsMTAgQzExLDEwLjU1MjI4NDcgMTAuNTUyMjg0NywxMSAxMCwxMSBDOS40NDc3MTUyNSwxMSA5LDEwLjU1MjI4NDcgOSwxMCBMOSw5IEw4LDkgQzcuNDQ3NzE1MjUsOSA3LDguNTUyMjg0NzUgNyw4IEM3LDcuNDQ3NzE1MjUgNy40NDc3MTUyNSw3IDgsNyBMOSw3IEw5LDYgQzksNS40NDc3MTUyNSA5LjQ0NzcxNTI1LDUgMTAsNSBDMTAuNTUyMjg0Nyw1IDExLDUuNDQ3NzE1MjUgMTEsNiBMMTEsNyBaIiBpZD0iaGFuZGxlcy1hbmQtcGx1cyI+PC9wYXRoPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg==",
+    "description": "「コピー」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/a58d87cb7ce587fa7dcf05f3c3e97386.svg",
+    "description": "「貼り付け」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/10a6126b7bc54305463d0488d7b8c67e.svg",
+    "description": "「音をコピー」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/abcc6ff566f4c21e46c1c898490c2ccc.svg",
+    "description": "「削除」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjQ5cHgiIGhlaWdodD0iNTJweCIgdmlld0JveD0iLTUgMCA0OSA0OCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNDMuMiAoMzkwNjkpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPnBsYXk8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz4KICAgICAgICA8cGF0aCBkPSJNMTcuMjIxNDY1MSw4LjM0NDk5NDQzIEMxOS43NzY2NDE5LDQuMDg2MzY2NTMgMjMuOTIzNDA1Nyw0LjA5MzAzOTQ2IDI2LjQ3NDU3ODcsOC4zNDQ5OTQ0MyBMNDAuMTUyMDk3NCwzMS4xNDA4NTkgQzQyLjcwNzI3NDEsMzUuMzk5NDg2OSA0MC43NDg5NjcyLDM4Ljg1MTc4NjkgMzUuNzcyNjYzNywzOC44NTE3ODY5IEw3LjkyMzM4MDA2LDM4Ljg1MTc4NjkgQzIuOTQ5NTA4OSwzOC44NTE3ODY5IDAuOTkyNzczNDI5LDM1LjM5MjgxNCAzLjU0Mzk0NjQxLDMxLjE0MDg1OSBMMTcuMjIxNDY1MSw4LjM0NDk5NDQzIFoiIGlkPSJwYXRoLTEiPjwvcGF0aD4KICAgIDwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJEZXNrdG9wLS0tMTI4MHg3MjAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02MjMuMDAwMDAwLCAtMzQ3LjAwMDAwMCkiPgogICAgICAgICAgICA8ZyBpZD0iU3RlcC0zLS0tQWx0ZXJpbmctU3VnZ2VzdGVkLVRyaW0iIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLCA0Mi4wMDAwMDApIj4KICAgICAgICAgICAgICAgIDxnIGlkPSJQbGF5LS8tUmVjb3JkLS8tU3RvcCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjIzLjAwMDAwMCwgMzA3LjAwMDAwMCkiPgogICAgICAgICAgICAgICAgICAgIDxnIGlkPSJwbGF5IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMS44NDkxMzEsIDIyLjAwMjY1Nikgcm90YXRlKDkwLjAwMDAwMCkgdHJhbnNsYXRlKC0yMS44NDkxMzEsIC0yMi4wMDI2NTYpICI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx1c2Ugc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9IiNGRkZGRkYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgeGxpbms6aHJlZj0iI3BhdGgtMSI+PC91c2U+CiAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4K",
+    "description": "「再生」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0OC4yICg0NzMyNykgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+aWNvbi0tZmFzdGVyPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9ImZhc3RlciIgZmlsbD0iI0NGNjNDRiI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMC40MDMwMTY4LDE1LjMzMDUyMDUgQzkuNjM2MzE4MTgsMTUuODA5MDQzIDguNjc4OTQ0OTYsMTUuMjE1MDE1IDguNjc4OTQ0OTYsMTQuMjg5NTk2NSBMOC42Nzg5NDQ5NiwxMi4zMDUzNzggTDMuNzI0MDcxODQsMTUuMzMwNTIwNSBDMi45NTczNzMyMiwxNS44MDkwNDMgMiwxNS4yMTUwMTUgMiwxNC4yODk1OTY1IEwyLDUuNzE4ODE3OTcgQzIsNC43Nzk2NDg3NSAyLjk1NzM3MzIyLDQuMTk5MzcxNDQgMy43MjQwNzE4NCw0LjY2Mjc2ODI1IEw4LjY3ODk0NDk2LDcuNjg3OTEwNjcgTDguNjc4OTQ0OTYsNS43MTg4MTc5NyBDOC42Nzg5NDQ5Niw0Ljc3OTY0ODc1IDkuNjM2MzE4MTgsNC4xOTkzNzE0NCAxMC40MDMwMTY4LDQuNjYyNzY4MjUgTDE3LjQyNTk3NjEsOC45NDc0Njk5NiBDMTguMTkxMzQxMyw5LjQxMDg2Njc4IDE4LjE5MTM0MTMsMTAuNTgyNDIxOSAxNy40MjU5NzYxLDExLjA2MDk0NDUgTDEwLjQwMzAxNjgsMTUuMzMwNTIwNSBaIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=",
+    "description": "「速く」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0OC4yICg0NzMyNykgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+aWNvbi0tc2xvd2VyPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9InNsb3dlciIgZmlsbD0iI0NGNjNDRiI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0yLjU3NCw4LjkzOTM2NDQxIEw5LjU5NjY2NjY3LDQuNjY5OTg5NDEgQzEwLjM2MzMzMzMsNC4xOTE0ODk0MSAxMS4zMjA2NjY3LDQuNzg1NDg5NDEgMTEuMzIwNjY2Nyw1LjcxMDg2NDQxIEwxMS4zMjA2NjY3LDcuNjk0OTg5NDEgTDE2LjI3NTMzMzMsNC42Njk5ODk0MSBDMTcuMDQyLDQuMTkxNDg5NDEgMTcuOTk5MzMzMyw0Ljc4NTQ4OTQxIDE3Ljk5OTMzMzMsNS43MTA4NjQ0MSBMMTcuOTk5MzMzMywxNC4yODEyMzk0IEMxNy45OTkzMzMzLDE1LjIyMDM2NDQgMTcuMDQyLDE1LjgwMDYxNDQgMTYuMjc1MzMzMywxNS4zMzcyMzk0IEwxMS4zMjA2NjY3LDEyLjMxMjIzOTQgTDExLjMyMDY2NjcsMTQuMjgxMjM5NCBDMTEuMzIwNjY2NywxNS4yMjAzNjQ0IDEwLjM2MzMzMzMsMTUuODAwNjE0NCA5LjU5NjY2NjY3LDE1LjMzNzIzOTQgTDIuNTc0LDExLjA1MjczOTQgQzEuODA4NjY2NjcsMTAuNTg5MzY0NCAxLjgwODY2NjY3LDkuNDE3ODY0NDEgMi41NzQsOC45MzkzNjQ0MSI+PC9wYXRoPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+",
+    "description": "「遅く」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0OC4yICg0NzMyNykgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+bG91bmRlcjwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJsb3VuZGVyIj4KICAgICAgICAgICAgPGcgaWQ9ImxvdWRlciIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMi4wMDAwMDAsIDQuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNNi43MDQxLDIuMTIyMSBMNi43MDQxLDEwLjUzNjEgQzYuNzA0MSwxMC44ODUxIDYuNDIyMSwxMS4xNjcxIDYuMDc0MSwxMS4xNjcxIEw0Ljg5NzEsMTEuMTY3MSBDNC42MjUxLDExLjE2NzEgNC4zODMxLDEwLjk5MjEgNC4yOTgxLDEwLjczMjEgQzMuODE4MSw5LjI2ODEgMi40NTIxLDguMjc4MSAwLjkxMTEsOC4yNzgxIEwwLjYzMTEsOC4yNzgxIEMwLjI4NDEsOC4yNzgxIDAuMDAwMSw3Ljk5NDEgMC4wMDAxLDcuNjQ3MSBMMC4wMDAxLDUuMDExMSBDMC4wMDAxLDQuNjY0MSAwLjI4NDEsNC4zODAxIDAuNjMxMSw0LjM4MDEgTDAuOTExMSw0LjM4MDEgQzIuNDUyMSw0LjM4MDEgMy44MTgxLDMuMzkwMSA0LjI5ODEsMS45MjYxIEM0LjM4MzEsMS42NjYxIDQuNjI1MSwxLjQ5MTEgNC44OTcxLDEuNDkxMSBMNi4wNzQxLDEuNDkxMSBDNi40MjIxLDEuNDkxMSA2LjcwNDEsMS43NzMxIDYuNzA0MSwyLjEyMjEiIGlkPSJGaWxsLTEiIGZpbGw9IiNDRjYzQ0YiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik05LjExNzIsNS4yMTI5IEM5LjcyOTIsNS44MjU5IDkuNzI5Miw2LjgzMTkgOS4xMTcyLDcuNDQ0OSIgaWQ9IlN0cm9rZS0zIiBzdHJva2U9IiNDRjYzQ0YiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMS4zNDg2LDIuOTgxNSBDMTMuMTk2Niw0LjgyOTUgMTMuMTk2Niw3LjgyOTUgMTEuMzQ4Niw5LjY3NjUiIGlkPSJTdHJva2UtNSIgc3Ryb2tlPSIjQ0Y2M0NGIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48L3BhdGg+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTMuNTgsMC43NTAxIEMxNi42NjMsMy44MzIxIDE2LjY2Myw4LjgyNjEgMTMuNTgsMTEuOTA4MSIgaWQ9IlN0cm9rZS03IiBzdHJva2U9IiNDRjYzQ0YiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjwvcGF0aD4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+",
+    "description": "「大きく」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjIwcHgiIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAwIDIwIDIwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0OC4yICg0NzMyNykgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+aWNvbi0tc29mdGVyPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9InNvZnRlciI+CiAgICAgICAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDUuMDAwMDAwLCA0LjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTcuNTQwMTEyNDYsMS4zODczNjI1IEw3LjU0MDExMjQ2LDEwLjg1MzExMjUgQzcuNTQwMTEyNDYsMTEuMjQ1NzM3NSA3LjIyMjk0NjU5LDExLjU2Mjk4NzUgNi44MzE1NTA0MSwxMS41NjI5ODc1IEw1LjUwNzc3NjU1LDExLjU2Mjk4NzUgQzUuMjAxODU3NywxMS41NjI5ODc1IDQuOTI5Njc5OSwxMS4zNjYxMTI1IDQuODM0MDgwMjYsMTEuMDczNjEyNSBDNC4yOTQyMjM0Niw5LjQyNjYxMjUgMi43NTc4ODA5OCw4LjMxMjg2MjUgMS4wMjQ3MTU3Miw4LjMxMjg2MjUgTDAuNzA5Nzk5MjUxLDguMzEyODYyNSBDMC4zMTk1Mjc3NzMsOC4zMTI4NjI1IDAuMDAwMTEyNSw3Ljk5MzM2MjUgMC4wMDAxMTI1LDcuNjAyOTg3NSBMMC4wMDAxMTI1LDQuNjM3NDg3NSBDMC4wMDAxMTI1LDQuMjQ3MTEyNSAwLjMxOTUyNzc3MywzLjkyNzYxMjUgMC43MDk3OTkyNTEsMy45Mjc2MTI1IEwxLjAyNDcxNTcyLDMuOTI3NjEyNSBDMi43NTc4ODA5OCwzLjkyNzYxMjUgNC4yOTQyMjM0NiwyLjgxMzg2MjUgNC44MzQwODAyNiwxLjE2Njg2MjUgQzQuOTI5Njc5OSwwLjg3NDM2MjUgNS4yMDE4NTc3LDAuNjc3NDg3NSA1LjUwNzc3NjU1LDAuNjc3NDg3NSBMNi44MzE1NTA0MSwwLjY3NzQ4NzUgQzcuMjIyOTQ2NTksMC42Nzc0ODc1IDcuNTQwMTEyNDYsMC45OTQ3Mzc1IDcuNTQwMTEyNDYsMS4zODczNjI1IiBpZD0iRmlsbC0xIiBmaWxsPSIjQ0Y2M0NGIj48L3BhdGg+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOS4yNSw0Ljg2NDUxMjUgQzkuOTM4NSw1LjU1NDEzNzUgOS45Mzg1LDYuNjg1ODg3NSA5LjI1LDcuMzc1NTEyNSIgaWQ9IlN0cm9rZS0zIiBzdHJva2U9IiNDRjYzQ0YiIHN0cm9rZS13aWR0aD0iMS43NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48L3BhdGg+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==",
+    "description": "「小さく」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDU1LjIgKDc4MTgxKSAtIGh0dHBzOi8vc2tldGNoYXBwLmNvbSAtLT4KICAgIDx0aXRsZT5Tb3VuZC9FZmZlY3RzL011dGU8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZyBpZD0iU291bmQvRWZmZWN0cy9NdXRlIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8cGF0aCBmaWxsPSIjQ0Y2M0NGIiBkPSJNMTMuNDU0MTc0OSw1LjA0ODE1MjQzIEwxNS42MjgxMTY4LDIuODc0MjEwNTQgQzE1LjkyMTAxLDIuNTgxMzE3MzIgMTYuMzk1ODgzNywyLjU4MTMxNzMyIDE2LjY4ODc3NywyLjg3NDIxMDU0IEMxNi45ODE2NzAyLDMuMTY3MTAzNzYgMTYuOTgxNjcwMiwzLjY0MTk3NzQ5IDE2LjY4ODc3NywzLjkzNDg3MDcxIEw0LjUzMDMzMDA5LDE2LjA5MzMxNzYgQzQuMjM3NDM2ODcsMTYuMzg2MjEwOCAzLjc2MjU2MzEzLDE2LjM4NjIxMDggMy40Njk2Njk5MSwxNi4wOTMzMTc2IEMzLjE3Njc3NjcsMTUuODAwNDI0NCAzLjE3Njc3NjcsMTUuMzI1NTUwNiAzLjQ2OTY2OTkxLDE1LjAzMjY1NzQgTDYuMzEyMTQ5MzIsMTIuMTkwMTc4IEM2LjEyNDExOTEsMTIuMDYyMTM3OSA2LDExLjg0NjMzMzEgNiwxMS42MDI5ODc1IEw2LDguNjM3NDg3NSBDNiw4LjI0NzExMjUgNi4zMTk0MTUyNyw3LjkyNzYxMjUgNi43MDk2ODY3NSw3LjkyNzYxMjUgTDcuMDI0NjAzMjIsNy45Mjc2MTI1IEM4Ljc1Nzc2ODQ4LDcuOTI3NjEyNSAxMC4yOTQxMTEsNi44MTM4NjI1IDEwLjgzMzk2NzgsNS4xNjY4NjI1IEMxMC45Mjk1Njc0LDQuODc0MzYyNSAxMS4yMDE3NDUyLDQuNjc3NDg3NSAxMS41MDc2NjQxLDQuNjc3NDg3NSBMMTIuODMxNDM3OSw0LjY3NzQ4NzUgQzEzLjEwMDI4NDQsNC42Nzc0ODc1IDEzLjMzNDEwNzUsNC44MjcxNzIwOCAxMy40NTQxNzQ5LDUuMDQ4MTUyNDMgWiBNMTMuNTQsOS4wODM2NDc3MSBMMTMuNTQsMTQuODUzMTEyNSBDMTMuNTQsMTUuMjQ1NzM3NSAxMy4yMjI4MzQxLDE1LjU2Mjk4NzUgMTIuODMxNDM3OSwxNS41NjI5ODc1IEwxMS41MDc2NjQxLDE1LjU2Mjk4NzUgQzExLjIwMTc0NTIsMTUuNTYyOTg3NSAxMC45Mjk1Njc0LDE1LjM2NjExMjUgMTAuODMzOTY3OCwxNS4wNzM2MTI1IEMxMC41NzczNzg1LDE0LjI5MDgwNzcgMTAuMDk1NjgxMywxMy42Mjg0NjUgOS40NzQ3MzUzMSwxMy4xNDg5MTI0IEwxMy41NCw5LjA4MzY0NzcxIFoiIGlkPSJwYXRoLTEiPjwvcGF0aD4KICAgIDwvZz4KPC9zdmc+Cg==",
+    "description": "「ミュート」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDU2LjIgKDgxNjcyKSAtIGh0dHBzOi8vc2tldGNoLmNvbSAtLT4KICAgIDx0aXRsZT5Tb3VuZC9FZmZlY3RzL0ZhZGUtaW48L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZyBpZD0iU291bmQvRWZmZWN0cy9GYWRlLWluIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8cGF0aCBkPSJNMiwxMC4yNSBDMS44NjE5Mjg4MSwxMC4yNSAxLjc1LDEwLjEzODA3MTIgMS43NSwxMCBDMS43NSw5Ljg2MTkyODgxIDEuODYxOTI4ODEsOS43NSAyLDkuNzUgTDcsOS43NSBDNy4zNTMyNDg1MSw5Ljc1IDcuNTgyNzAwNzcsOS41MDg3NjQyOCA3LjkwNDM3OTgxLDguODg1MzYxMDcgTDguMDQ2MTIwMjEsOC42MDgyMjkyIEM4LjM1NTgyMjM1LDguMDEwNzEyNzMgOC41ODcxODExMiw3Ljc1IDksNy43NSBDOS4zODc5NDI3LDcuNzUgOS42NDc4MzYxOCw3Ljg5NTIxNzY0IDEwLjA1Njc1NjgsOC4yNDc2MjA2MSBMMTAuMTI5OTU0Myw4LjMxMDkzMTk5IEMxMC41MTA1MjI4LDguNjQwMTY0OTcgMTAuNzA1ODUyNiw4Ljc1IDExLDguNzUgQzExLjE5OTk2NDQsOC43NSAxMS40MDI1ODUsOC4zOTMyMTE2MiAxMS43NjU1NjI4LDcuNDEzMTcxNDEgQzEyLjIzNTkxODMsNi4xNDMyMTE2MiAxMi40NTkyMjM3LDUuNzUgMTMsNS43NSBDMTMuNDAyMDYxNiw1Ljc1IDEzLjYzMTQ3MTcsNS44ODk3MDQ5IDEzLjkxMzM0MTgsNi4yMTE0MDQ1MSBDMTMuOTY3OTA2Nyw2LjI3NDI2MzQyIDEzLjk5NzM3NTgsNi4zMDgyNDc5OSAxNC4wMjAxODU3LDYuMzMzOTA5MDQgQzE0LjI4NTIwNDYsNi42MzIwNTUzNyAxNC41MTIzNTcyLDYuNzUgMTUsNi43NSBDMTUuMzc2NTQzNiw2Ljc1IDE1LjY5MjYwMTgsNi4xMzE2MjUyOSAxNi4yNjI4MjkyLDQuNDIwOTQzMDYgQzE2Ljk0MjYwMTgsMi4zODE2MjUyOSAxNy4yNjU0MzI1LDEuNzUgMTgsMS43NSBDMTguMTM4MDcxMiwxLjc1IDE4LjI1LDEuODYxOTI4ODEgMTguMjUsMiBMMTguMjUsMTggQzE4LjI1LDE4LjEzODA3MTIgMTguMTM4MDcxMiwxOC4yNSAxOCwxOC4yNSBDMTcuMjY1NDMyNSwxOC4yNSAxNi45NDI2MDE4LDE3LjYxODM3NDcgMTYuMjYyODI5MiwxNS41NzkwNTY5IEMxNS42OTI2MDE4LDEzLjg2ODM3NDcgMTUuMzc2NTQzNiwxMy4yNSAxNSwxMy4yNSBDMTQuNTEyMzU3MiwxMy4yNSAxNC4yODUyMDQ2LDEzLjM2Nzk0NDYgMTQuMDIwMTg1NywxMy42NjYwOTEgQzEzLjk5NzM3NTgsMTMuNjkxNzUyIDEzLjk2NzkwNjcsMTMuNzI1NzM2NiAxMy45MTMzNDE4LDEzLjc4ODU5NTUgQzEzLjYzMTQ3MTcsMTQuMTEwMjk1MSAxMy40MDIwNjE2LDE0LjI1IDEzLDE0LjI1IEMxMi40NTkyMjM3LDE0LjI1IDEyLjIzNTkxODMsMTMuODU2Nzg4NCAxMS43NjU1NjI4LDEyLjU4NjgyODYgQzExLjQwMjU4NSwxMS42MDY3ODg0IDExLjE5OTk2NDQsMTEuMjUgMTEsMTEuMjUgQzEwLjcwNTg1MjYsMTEuMjUgMTAuNTEwNTIyOCwxMS4zNTk4MzUgMTAuMTI5OTU0MywxMS42ODkwNjggTDEwLjA1Njc1NjgsMTEuNzUyMzc5NCBDOS42NDc4MzYxOCwxMi4xMDQ3ODI0IDkuMzg3OTQyNywxMi4yNSA5LDEyLjI1IEM4LjU4NzE4MTEyLDEyLjI1IDguMzU1ODIyMzUsMTEuOTg5Mjg3MyA4LjA0NjEyMDIxLDExLjM5MTc3MDggTDcuOTA0Mzc5ODEsMTEuMTE0NjM4OSBDNy41ODI3MDA3OCwxMC40OTEyMzU3IDcuMzUzMjQ4NTEsMTAuMjUgNy4wMDAwMDAwMSwxMC4yNSBMMiwxMC4yNSBaIiBpZD0iUGF0aCIgZmlsbD0iI0NGNjNDRiIgZmlsbC1ydWxlPSJub256ZXJvIj48L3BhdGg+CiAgICA8L2c+Cjwvc3ZnPg==",
+    "description": "「フェードイン」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDU2LjIgKDgxNjcyKSAtIGh0dHBzOi8vc2tldGNoLmNvbSAtLT4KICAgIDx0aXRsZT5Tb3VuZC9FZmZlY3RzL0ZhZGUtb3V0PC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGcgaWQ9IlNvdW5kL0VmZmVjdHMvRmFkZS1vdXQiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGQ9Ik0xMywxMC4yNSBDMTIuNjQ2NzUxNSwxMC4yNSAxMi40MTcyOTkyLDEwLjQ5MTIzNTcgMTIuMDk1NjIwMiwxMS4xMTQ2Mzg5IEwxMS45NTM4Nzk4LDExLjM5MTc3MDggQzExLjY0NDE3NzYsMTEuOTg5Mjg3MyAxMS40MTI4MTg5LDEyLjI1IDExLDEyLjI1IEMxMC42MTIwNTczLDEyLjI1IDEwLjM1MjE2MzgsMTIuMTA0NzgyNCA5Ljk0MzI0MzIyLDExLjc1MjM3OTQgTDkuODcwMDQ1NywxMS42ODkwNjggQzkuNDg5NDc3MjQsMTEuMzU5ODM1IDkuMjk0MTQ3NDMsMTEuMjUgOSwxMS4yNSBDOC44MDAwMzU2MSwxMS4yNSA4LjU5NzQxNTA1LDExLjYwNjc4ODQgOC4yMzQ0MzcxOSwxMi41ODY4Mjg2IEM3Ljc2NDA4MTcxLDEzLjg1Njc4ODQgNy41NDA3NzYzNSwxNC4yNSA3LDE0LjI1IEM2LjU5NzkzODQ1LDE0LjI1IDYuMzY4NTI4MywxNC4xMTAyOTUxIDYuMDg2NjU4MTYsMTMuNzg4NTk1NSBDNi4wMzIwOTMyOSwxMy43MjU3MzY2IDYuMDAyNjI0MTYsMTMuNjkxNzUyIDUuOTc5ODE0MzQsMTMuNjY2MDkxIEM1LjcxNDc5NTM4LDEzLjM2Nzk0NDYgNS40ODc2NDI3NSwxMy4yNSA1LDEzLjI1IEM0LjYyMzQ1NjQyLDEzLjI1IDQuMzA3Mzk4MjQsMTMuODY4Mzc0NyAzLjczNzE3MDgyLDE1LjU3OTA1NjkgQzMuMDU3Mzk4MjQsMTcuNjE4Mzc0NyAyLjczNDU2NzUzLDE4LjI1IDIsMTguMjUgQzEuODYxOTI4ODEsMTguMjUgMS43NSwxOC4xMzgwNzEyIDEuNzUsMTggTDEuNzUsMiBDMS43NSwxLjg2MTkyODgxIDEuODYxOTI4ODEsMS43NSAyLDEuNzUgQzIuNzM0NTY3NTMsMS43NSAzLjA1NzM5ODI0LDIuMzgxNjI1MjkgMy43MzcxNzA4Miw0LjQyMDk0MzA2IEM0LjMwNzM5ODI0LDYuMTMxNjI1MjkgNC42MjM0NTY0Miw2Ljc1IDUsNi43NSBDNS40ODc2NDI3NSw2Ljc1IDUuNzE0Nzk1MzgsNi42MzIwNTUzNyA1Ljk3OTgxNDM0LDYuMzMzOTA5MDQgQzYuMDAyNjI0MTYsNi4zMDgyNDc5OSA2LjAzMjA5MzI5LDYuMjc0MjYzNDIgNi4wODY2NTgxNiw2LjIxMTQwNDUxIEM2LjM2ODUyODMsNS44ODk3MDQ5IDYuNTk3OTM4NDUsNS43NSA3LDUuNzUgQzcuNTQwNzc2MzUsNS43NSA3Ljc2NDA4MTcxLDYuMTQzMjExNjIgOC4yMzQ0MzcxOSw3LjQxMzE3MTQxIEM4LjU5NzQxNTA1LDguMzkzMjExNjIgOC44MDAwMzU2MSw4Ljc1IDksOC43NSBDOS4yOTQxNDc0Myw4Ljc1IDkuNDg5NDc3MjQsOC42NDAxNjQ5NyA5Ljg3MDA0NTcsOC4zMTA5MzE5OSBMOS45NDMyNDMyMiw4LjI0NzYyMDYxIEMxMC4zNTIxNjM4LDcuODk1MjE3NjQgMTAuNjEyMDU3Myw3Ljc1IDExLDcuNzUgQzExLjQxMjgxODksNy43NSAxMS42NDQxNzc2LDguMDEwNzEyNzMgMTEuOTUzODc5OCw4LjYwODIyOTIgTDEyLjA5NTYyMDIsOC44ODUzNjEwNyBDMTIuNDE3Mjk5Miw5LjUwODc2NDI4IDEyLjY0Njc1MTUsOS43NSAxMyw5Ljc1IEwxOCw5Ljc1IEMxOC4xMzgwNzEyLDkuNzUgMTguMjUsOS44NjE5Mjg4MSAxOC4yNSwxMCBDMTguMjUsMTAuMTM4MDcxMiAxOC4xMzgwNzEyLDEwLjI1IDE4LDEwLjI1IEwxMi45OTk5OTk4LDEwLjI1IEwxMywxMC4yNSBaIiBpZD0iUGF0aCIgZmlsbD0iI0NGNjNDRiIgZmlsbC1ydWxlPSJub256ZXJvIj48L3BhdGg+CiAgICA8L2c+Cjwvc3ZnPg==",
+    "description": "「フェードアウト」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/85f62e9e77bed58778782e6cce58c1f4.svg",
+    "description": "「逆向き」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/b1f026ce265c0f666e2063ef94b06109.svg",
+    "description": "「ロボット」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/af8e46c9477a8cadeb6c26b4686407a5.svg",
+    "description": "「音を選ぶ」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDQ4LjIgKDQ3MzI3KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5yZWNvcmQ8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0icmVjb3JkIiBmaWxsPSIjRkZGRkZGIj4KICAgICAgICAgICAgPHBhdGggZD0iTTE1LjkzNjUwMDYsMTEuMTQ4MzgxIEMxNS4wMzY5NzA3LDEzLjMzMzIyODUgMTMuMDUxODAxMSwxNC44MjY0Njk3IDEwLjc3MTk1OCwxNS4xMDkzOTk2IEwxMC43NzE5NTgsMTcuMjE0MDgzNiBDMTAuNzcxOTU4LDE3LjY1NTc2ODYgMTAuNDMwNzU3LDE4IDkuOTk2NTAxMTYsMTggQzkuNTYyMjQ1MzMsMTggOS4yMjEwNDQzMiwxNy42NTU3Njg2IDkuMjIxMDQ0MzIsMTcuMjE0MDgzNiBMOS4yMjEwNDQzMiwxNS4xMDkzOTk2IEM2Ljk1NjcxMDMzLDE0LjgyNjQ2OTcgNC45NzMwOTE3MSwxMy4zNDczNzUgNC4wNTY1MDE3MiwxMS4xNzk4MTc3IEMzLjkwMTQxMDM1LDEwLjc4Njg1OTUgNC4wNzM1NjE3NywxMC4zMTUzMDk3IDQuNDc1MjQ4NDIsMTAuMTU4MTI2NCBDNC44NjI5NzY4NCw5Ljk4NTIyNDc3IDUuMzI4MjUwOTUsMTAuMTU4MTI2NCA1LjQ4MzM0MjMyLDEwLjU2NjgwMjkgQzYuMjU4Nzk5MTYsMTIuMzkwMTI4OSA4LjAyNjg0MDc3LDEzLjU4NDcyMTggOS45OTY1MDExNiwxMy41ODQ3MjE4IEMxMS45NjYxNjE2LDEzLjU4NDcyMTggMTMuNzQ5NzEyMywxMi4zOTAxMjg5IDE0LjUwOTY2LDEwLjUzMzc5NDQgQzE0LjY4MDI2MDUsMTAuMTQwODM2MiAxNS4xNDU1MzQ2LDkuOTUzNzg4MTIgMTUuNTMzMjYzLDEwLjEyNjY4OTcgQzE1LjkyMDk5MTUsMTAuMjk5NTkxMyAxNi4xMDcxMDExLDEwLjc1NTQyMjggMTUuOTM2NTAwNiwxMS4xNDgzODEgWiBNNy4yODIyNDcxMSw4LjY0NjkyOTgyIEw3LjI4MjI0NzExLDQuNjg2NDAzNTEgQzcuMjgyMjQ3MTEsMy4xOTczNjg0MiA4LjQ3MDAzNTQ4LDIgOS45MTM0MjM4OCwyIEMxMS4zNzE4NDc2LDIgMTIuNTQ0NjAwNywzLjE5NzM2ODQyIDEyLjU0NDYwMDcsNC42ODY0MDM1MSBMMTIuNTQ0NjAwNyw4LjY0NjkyOTgyIEMxMi41NDQ2MDA3LDEwLjEyMDYxNCAxMS4zNzE4NDc2LDExLjMzMzMzMzMgOS45MTM0MjM4OCwxMS4zMzMzMzMzIEM4LjQ3MDAzNTQ4LDExLjMzMzMzMzMgNy4yODIyNDcxMSwxMC4xMjA2MTQgNy4yODIyNDcxMSw4LjY0NjkyOTgyIFoiIGlkPSJyZWNvcmQtaWNvbiI+PC9wYXRoPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg==",
+    "description": "音を選ぶ＞録音するボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/ed3fe9e11706e76990709ac2e567ada6.svg",
+    "description": "音を選ぶ画面の再生ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjUycHgiIGhlaWdodD0iNTJweCIgdmlld0JveD0iMCAwIDUyIDUyIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0My4yICgzOTA2OSkgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+c3RvcC1wbGF5YmFjazwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPgogICAgICAgIDxyZWN0IGlkPSJwYXRoLTEiIHg9IjAiIHk9IjAiIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgcng9IjQiPjwvcmVjdD4KICAgICAgICA8ZmlsdGVyIHg9Ii0xMy42JSIgeT0iLTEzLjYlIiB3aWR0aD0iMTI3LjMlIiBoZWlnaHQ9IjEyNy4zJSIgZmlsdGVyVW5pdHM9Im9iamVjdEJvdW5kaW5nQm94IiBpZD0iZmlsdGVyLTIiPgogICAgICAgICAgICA8ZmVNb3JwaG9sb2d5IHJhZGl1cz0iMiIgb3BlcmF0b3I9ImRpbGF0ZSIgaW49IlNvdXJjZUFscGhhIiByZXN1bHQ9InNoYWRvd1NwcmVhZE91dGVyMSI+PC9mZU1vcnBob2xvZ3k+CiAgICAgICAgICAgIDxmZU9mZnNldCBkeD0iMCIgZHk9IjAiIGluPSJzaGFkb3dTcHJlYWRPdXRlcjEiIHJlc3VsdD0ic2hhZG93T2Zmc2V0T3V0ZXIxIj48L2ZlT2Zmc2V0PgogICAgICAgICAgICA8ZmVDb21wb3NpdGUgaW49InNoYWRvd09mZnNldE91dGVyMSIgaW4yPSJTb3VyY2VBbHBoYSIgb3BlcmF0b3I9Im91dCIgcmVzdWx0PSJzaGFkb3dPZmZzZXRPdXRlcjEiPjwvZmVDb21wb3NpdGU+CiAgICAgICAgICAgIDxmZUNvbG9yTWF0cml4IHZhbHVlcz0iMCAwIDAgMCAwLjI5ODAzOTIxNiAgIDAgMCAwIDAgMC41OTIxNTY4NjMgICAwIDAgMCAwIDEgIDAgMCAwIDAuMSAwIiB0eXBlPSJtYXRyaXgiIGluPSJzaGFkb3dPZmZzZXRPdXRlcjEiPjwvZmVDb2xvck1hdHJpeD4KICAgICAgICA8L2ZpbHRlcj4KICAgIDwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJEZXNrdG9wLS0tMTI4MHg3MjAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02MTkuMDAwMDAwLCAtMzQ1LjAwMDAwMCkiPgogICAgICAgICAgICA8ZyBpZD0iU3RlcC00LS0tUGxheWluZy1UcmltIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwgNDIuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8ZyBpZD0iUGxheS0vLVJlY29yZC0vLVN0b3AiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYyMy4wMDAwMDAsIDMwNy4wMDAwMDApIj4KICAgICAgICAgICAgICAgICAgICA8ZyBpZD0ic3RvcC1wbGF5YmFjayI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx1c2UgZmlsbD0iYmxhY2siIGZpbGwtb3BhY2l0eT0iMSIgZmlsdGVyPSJ1cmwoI2ZpbHRlci0yKSIgeGxpbms6aHJlZj0iI3BhdGgtMSI+PC91c2U+CiAgICAgICAgICAgICAgICAgICAgICAgIDx1c2UgZmlsbD0iI0ZGRkZGRiIgZmlsbC1ydWxlPSJldmVub2RkIiB4bGluazpocmVmPSIjcGF0aC0xIj48L3VzZT4KICAgICAgICAgICAgICAgICAgICAgICAgPHJlY3Qgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjEiIHg9IjAuNSIgeT0iMC41IiB3aWR0aD0iNDMiIGhlaWdodD0iNDMiIHJ4PSI0Ij48L3JlY3Q+CiAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4K",
+    "description": "音を選ぶ画面の停止ボタン・「止める」ボタン",
+    "tags": ["エディター","音エディター"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/project/love-gray.svg",
+    "description": "「好き」未選択ボタン",
+    "tags": ["作品ページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/project/fav-gray.svg",
+    "description": "「お気に入り」未選択ボタン",
+    "tags": ["作品ページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/project/remix-gray.svg",
+    "description": "「リミックス」アイコン",
+    "tags": ["作品ページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/project/views-gray.svg",
+    "description": "「閲覧数」アイコン",
+    "tags": ["作品ページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/project/see-inside-white.svg",
+    "description": "「中を見る」アイコン",
+    "tags": ["作品ページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/project/copy-link-white.svg",
+    "description": "「リンクをコピー」アイコン",
+    "tags": ["作品ページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/static/assets/b3a6f3783f393f641dc3e51211dd50f4.svg",
+    "description": "「プロジェクトページを見る」ボタンアイコン",
+    "tags": ["作品ページ"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/forms/checkmark.svg",
+    "description": "アカウント作成画面のパスワードを表示チェックボックス",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/images/join-flow/country-header.png",
+    "description": "アカウント作成画面のどこに住んでいますか？の上の画像",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/images/join-flow/birthdate-header.png",
+    "description": "アカウント作成画面のいつ生まれましたか？の上の画像",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/images/join-flow/email-header.png",
+    "description": "アカウント作成画面のメールアドレスを入力してくださいの上の画像",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/info-button/info-button.svg",
+    "description": "アカウント作成画面の「？」アイコン",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://cdn.scratch.mit.edu/scratchr2/static/images/help/spritesforcommunityguid.png",
+    "description": "コミュニティーガイドラインの下の画像.",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://cdn.scratch.mit.edu/scratchr2/static/__74e70580e9dbe93ce1c3f8422dde592d__//images/cat-face-bullet.gif",
+    "description": "統計情報の箇条書きの点の猫.",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/images/about/who-uses-scratch.jpg",
+    "description": "scratchについて内の「どんな人がScratchを使っているの?」の画像",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/images/about/around-the-world.png",
+    "description": "scratchについて内の「世界中で」の画像",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/images/about/scratch-in-schools.jpg",
+    "description": "scratchについて内の「学校でのScratch」の画像",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/images/about/quotes.gif",
+    "description": "scratchについて内の「引用」の画像",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/images/about/research-remix.png",
+    "description": "scratchについて内の「研究」の画像",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/images/teachers/makey-activity.png",
+    "description": "教育者向け内の「教育関係者はどのようにScratchを使っているのか」の画像",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/project/r-arrow.svg",
+    "description": "教育者向け内の「最新情報を見る」のボタンアイコン",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/teachers/scratch-tutorials-icons.svg",
+    "description": "教育者向け内の「生徒向けリソース」のscratchのチュートリアルイメージ画像",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/teachers/coding-cards-icon.svg",
+    "description": "教育者向け内の「生徒向けリソース」のコーディングカードのイメージ画像",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/svgs/teachers/ideas-page-icon.svg",
+    "description": "教育者向け内の「生徒向けリソース」のアイデアページのイメージ画像",
+    "tags": ["その他"]
+  },
+  {
+    "url": "https://scratch.mit.edu/images/teachers/teacher-account.png",
+    "description": "教育者向け内の「Scratch教師用アカウント」の画像",
+    "tags": ["その他"]
+  }
+]
+

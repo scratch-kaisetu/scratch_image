@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scratch 画像集</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel=”icon” href="favicon.ico">
+</head>
+
+<body>
+    <h1>Scratch 画像集</h1>
+    <p>by:<a href="https://scratch.mit.edu/users/rennto_ko/" target="_blank" style="color: #855CD6;">rennto_ko</a>,<a
+            href="https://www.youtube.com/channel/UC76hHFZxOpcHs77FXAKXJyw" target="_blank"
+            style="color: #855CD6;">scratch(スクラッチ)解説</a></p>
+    <p>サイトを使用する前に<a href="help.html" style="color: #855CD6;">サイトヘルプ</a>をお読みください。</p>
+    <p>新しい画像や、修正依頼、ご意見がありましたら、<a href="https://forms.gle/ShRSt4EBKNmtqQn68" target="_blank"
+            style="color: #855CD6;">Googleフォーム - ご意見箱</a>までお願いします。</p>
+    <img id="searchIcon" src="https://scratch.mit.edu/images/nav-search-glass.png" alt="Search"
+        onclick="toggleSearchField()">
+    <input type="text" id="searchInput" oninput="filterImages()" placeholder="検索キーワードを入力" class="search-input">
+    <label for="tagSelect">タグ:</label>
+    <label class="selectbox-3">
+        <select id="tagSelect" onchange="filterImages()">
+            <option value="">全て</option>
+            <option value="ホームページ">ホームページ</option>
+            <option value="見る">見る</option>
+            <option value="エディター">エディター</option>
+            <option value="作品ページ">作品ページ</option>
+            <option value="ナビゲーションバー">ナビゲーションバー</option>
+            <option value="コスチュームエディター">コスチュームエディター</option>
+            <option value="音エディター">音エディター</option>
+            <option value="その他">その他</option>
+        </select>
+    </label>
+    <div id="searchResult"></div>
+    <table id="imageTable">
+        <thead>
+            <tr>
+                <th>番号</th>
+                <th>画像名</th>
+                <th>画像</th>
+                <th>使用されている場所</th>
+                <th>タグ</th>
+                <th>アクセス</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <div class="tab">
+                <div id="modalImageName"></div>
+                <div class="clause-button" onclick="closeModal()">
+                    <img src="https://scratch.mit.edu/svgs/modal/close-x.svg" alt="Close" class="close">
+                </div>
+            </div>
+            <div class="Modal-contents">
+                <img id="modalImg" width="100%" height="auto">
+            </div>
+        </div>
+    </div>
+    <p>ここで紹介している画像は全て<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja" target="_blank"
+            style="color: #855CD6;">クリエイティブ・コモンズ表示ー継承</a>でライセンスされています。</p>
+    <script src="script.js"></script>
+</body>
+
+</html>
